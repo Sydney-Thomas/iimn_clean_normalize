@@ -1,0 +1,2823 @@
+Metabolite,LibraryID,Precursor_Mass,Network_Number
+65,NA,270.1551,102
+51,NA,298.1864,NA
+53,NA,527.2316,NA
+678,NA,123.0554,NA
+63,NA,136.0758,NA
+61,NA,524.1977,87
+135,NA,213.1235,65
+136,NA,284.0995,NA
+47,"Suspect related to Lactulose (predicted molecular formula: C8H20N3O7) with delta m/z -71.985 (putative explanation: nan (reverse); atomic difference: -2C,-3O)",253.1292,102
+104,NA,137.0458,NA
+85,NA,269.0884,NA
+342,NA,180.0868,NA
+71,NA,127.039,NA
+123,NA,121.0649,NA
+163,NA,138.0914,NA
+125,NA,384.2233,87
+126,NA,390.2127,25
+150,"Suspect related to Maltotetraose (predicted molecular formula: C24H40O20) with delta m/z -18.011 (putative explanation: Dehydration|Pyro-glu from E|carbodiimide crosslinker; atomic difference: -2H,-1O|-2H,-1O|-2H,-1O)",649.2193,102
+10,NA,746.212,NA
+44,NA,148.0605,NA
+200,NA,210.061,22
+169,"Suspect related to LNnT (predicted molecular formula: C31H55N3O22S) with delta m/z 146.058 (putative explanation: Fucose; atomic difference: 6C,10H,4O)",854.3152,1
+167,NA,548.1714,NA
+229,"Suspect related to 4.alpha.-Mannobiose (predicted molecular formula: unknown) with delta m/z 72.021 (putative explanation: unspecified|Dihydroxy methylglyoxal adduct|Gly->Glu substitution|carboxyethyl|methylglyoxal-derived carboxyethyllysine; atomic difference: 1C,2H,3N,1O|3C,4H,2O|3C,4H,2O|3C,4H,2O|3C,4H,2O)",432.172,NA
+88,"Suspect related to Spectral Match to 4-O-.beta.-Galactopyranosyl-D-mannopyranose from NIST14 (predicted molecular formula: unknown) with delta m/z 146.058 (putative explanation: Fucose; atomic difference: 6C,10H,4O)",831.2978,33
+376,NA,104.1071,NA
+23,"Suspect related to Gln-Phe (predicted molecular formula: C10H17N3O4) with delta m/z -50.015 (putative explanation: Phe->Pro substitution; atomic difference: -4C,-2H)",244.1294,65
+179,"Suspect related to Ser-Ile (predicted molecular formula: C11H20N2O3) with delta m/z 10.021 (putative explanation: Ser->Pro substitution; atomic difference: 2C,2H,-1O)",229.1549,NA
+101,NA,181.0708,NA
+752,NA,139.0503,276
+196,NA,203.1392,55
+192,"Suspect related to Spectral Match to Leu-Leu from NIST14 (predicted molecular formula: C11H20N2O5) with delta m/z 15.958 (putative explanation: Leu/Ile->Glu substitution|Val->Asp substitution|Demethylation+carboxylation; atomic difference: -1C,-4H,2O|-1C,-4H,2O|2O,-1C,-4H)",261.1447,72
+201,NA,480.2081,25
+202,NA,153.066,NA
+310,NA,300.1295,NA
+172,NA,151.0967,NA
+41,NA,533.1553,NA
+109,NA,527.1374,NA
+599,NA,114.0663,NA
+369,NA,1017.3969,1
+886,"Suspect related to Spectral Match to Butyrylcarnitine from NIST14 (predicted molecular formula: unknown) with delta m/z -14.016 (putative explanation: Ala->Gly substitution|Gln->Asn substitution|Glu->Asp substitution|Leu/Ile->Val substitution|Thr->Ser substitution; atomic difference: -1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H)",218.139,7
+418,NA,216.0635,NA
+175,NA,145.0496,79
+151,NA,284.1343,NA
+381,NA,271.0812,NA
+244,NA,241.1548,NA
+439,NA,346.1318,NA
+81,"Suspect related to LNFP III (predicted molecular formula: C32H58N2O25) with delta m/z 17.027 (putative explanation: replacement of proton with ammonium ion; atomic difference: 3H,1N)",871.3396,1
+420,NA,490.1779,87
+414,NA,259.1139,34
+644,Suspect related to Spectral Match to 1-(1Z-Octadecenyl)-sn-glycero-3-phosphocholine from NIST14 (predicted molecular formula: C8H20NO6P) with delta m/z -250.266 (putative explanation: unspecified; atomic difference: unspecified),258.1104,34
+437,NA,738.1513,76
+258,NA,316.1871,65
+759,NA,652.2659,33
+307,NA,692.2625,1
+513,NA,739.1586,76
+386,NA,999.3472,1
+66,NA,848.325,33
+544,NA,185.0769,55
+464,NA,449.067,NA
+33,NA,109.0285,NA
+472,NA,506.2084,33
+543,Suspect related to LAUROYLCARNITINE (predicted molecular formula: C9H17NO4) with delta m/z -140.156 (putative explanation: unspecified; atomic difference: unspecified),204.1232,7
+602,NA,132.0769,NA
+250,NA,373.1612,NA
+255,NA,411.0985,76
+434,"Suspect related to Lactose (predicted molecular formula: C31H38O16) with delta m/z 324.106 (putative explanation: Lactosylation; atomic difference: 12C,20H,10O)",667.2298,102
+456,Spectral Match to Glycan H-Trisaccharide from NIST14,512.1986,1
+98,NA,289.092,102
+476,NA,769.1916,NA
+875,NA,471.1717,33
+322,NA,443.0484,76
+293,"Suspect related to Lactulose (predicted molecular formula: unknown) with delta m/z 14.016 (putative explanation: Asn->Gln substitution|Asp->Glu substitution|Gly->Ala substitution|Methylation|Ser->Thr substitution|Val->Leu/Ile substitution|chain elongation; atomic difference: 1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H)",374.1657,102
+133,Suspect related to Maltotriose (predicted molecular formula: C12H29N4O11) with delta m/z -98.984 (putative explanation: unspecified; atomic difference: unspecified),388.1816,102
+722,NA,617.2285,NA
+770,PHOSPHOCHOLINE CHLORIDE - 30.00 eV,184.0735,55
+575,NA,635.2381,33
+324,NA,317.6695,NA
+96,NA,211.5524,NA
+760,"Suspect related to Spectral Match to Ile-Pro from NIST14 (predicted molecular formula: C10H18N2O3) with delta m/z -14.016 (putative explanation: Ala->Gly substitution|Gln->Asn substitution|Glu->Asp substitution|Leu/Ile->Val substitution|Thr->Ser substitution; atomic difference: -1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H)",215.1393,65
+899,"Suspect related to LNnT (predicted molecular formula: C31H55N3O22S) with delta m/z 146.058 (putative explanation: Fucose; atomic difference: 6C,10H,4O)",854.3151,1
+314,NA,307.1029,102
+724,Suspect related to Maltotriose (predicted molecular formula: C13H21N5O7) with delta m/z -145.027 (putative explanation: unspecified; atomic difference: unspecified),342.1398,102
+102,NA,427.0762,76
+320,NA,511.1639,1
+504,Suspect related to LNFP III (predicted molecular formula: C27H48N8O21S) with delta m/z -1.036 (putative explanation: unspecified; atomic difference: unspecified),853.2798,1
+588,NA,730.238,NA
+371,NA,467.2606,376
+557,NA,489.1817,87
+393,"Suspect related to Massbank:RP031103 N2_N2-Dimethylguanosine|N,N-Dimethylguanosine|9-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-2-(dimethylamino)-3H-purin-6-one (predicted molecular formula: C11H15N5O5) with delta m/z -14.016 (putative explanation: Ala->Gly substitution|Gln->Asn substitution|Glu->Asp substitution|Leu/Ile->Val substitution|Thr->Ser substitution; atomic difference: -1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H)",298.1151,NA
+926,NA,634.2191,33
+502,NA,478.1643,NA
+492,NA,414.2344,31
+622,NA,437.0614,NA
+454,NA,442.2777,278
+463,NA,350.0853,NA
+615,NA,999.3425,NA
+384,NA,436.2171,NA
+893,NA,469.2411,51
+433,NA,557.2564,376
+593,NA,396.0353,NA
+501,NA,491.2228,87
+511,NA,485.2727,NA
+505,NA,433.094,70
+810,NA,244.0935,NA
+536,NA,471.2563,196
+981,NA,109.0285,NA
+614,NA,645.7277,NA
+569,NA,493.2387,NA
+573,NA,202.144,243
+708,NA,237.1214,NA
+80,NA,423.0652,NA
+649,NA,100.0758,NA
+635,"Suspect related to Spectral Match to DL-Phenylalanine from NIST14 (predicted molecular formula: unknown) with delta m/z 87.033 (putative explanation: glycidamide adduct|Threonine analog; atomic difference: 3C,5H,1N,2O|4C,7H,1N,2O)",418.2077,87
+793,NA,215.0164,NA
+639,NA,240.1022,NA
+1007,NA,148.0606,NA
+753,NA,328.1928,NA
+650,NA,203.2232,277
+822,"Suspect related to Spectral Match to Ile-Glu from NIST14 (predicted molecular formula: C10H20N2O4) with delta m/z -27.995 (putative explanation: Asp->Ser substitution|Glu->Thr substitution|Pyrrolidone from Proline|Secondary amine cleavage, decarbonylation; atomic difference: -1C,-1O|-1C,-1O|-1C,-1O|-1C,-1O)",233.1492,72
+646,NA,120.0809,NA
+828,Spectral Match to PyroGlu-Pro from NIST14,227.1029,65
+1002,NA,381.0798,NA
+705,NA,272.1608,NA
+674,NA,793.346,NA
+694,NA,268.1271,NA
+727,NA,292.6922,72
+687,NA,271.0749,NA
+716,NA,275.1105,NA
+720,NA,527.2317,NA
+745,NA,657.2221,1
+693,"Suspect related to Glu-Ile (predicted molecular formula: C11H21N3O4) with delta m/z -0.984 (putative explanation: Amidation|Asp->Asn substitution|Glu->Gln substitution; atomic difference: 1H,1N,-1O|1H,1N,-1O|1H,1N,-1O)",260.1609,158
+905,NA,443.0484,76
+1124,NA,184.0735,55
+718,NA,464.2492,NA
+1082,NA,163.0602,79
+1080,NA,104.1071,NA
+765,NA,217.1052,NA
+951,NA,511.1638,1
+691,"Suspect related to Asp-Ile (predicted molecular formula: C10H19N3O4) with delta m/z -0.984 (putative explanation: Amidation|Asp->Asn substitution|Glu->Gln substitution; atomic difference: 1H,1N,-1O|1H,1N,-1O|1H,1N,-1O)",246.1451,169
+801,NA,444.246,NA
+795,NA,181.0714,145
+986,NA,242.9827,NA
+790,NA,249.085,NA
+775,NA,195.1229,NA
+769,NA,212.1495,NA
+794,NA,240.1809,166
+944,NA,411.0986,76
+761,NA,456.3185,NA
+1005,NA,210.061,22
+825,NA,584.2166,NA
+815,"Suspect related to Massbank:LU087003 Pantothenate|Pantothenic acid|3-[[(2R)-2,4-dihydroxy-3,3-dimethylbutanoyl]amino]propanoic acid (predicted molecular formula: C8H20N3OP) with delta m/z -13.981 (putative explanation: Asp->Thr substitution; atomic difference: 2H,-1O)",206.1389,256
+812,NA,570.2374,NA
+717,NA,454.2663,65
+1062,NA,506.2085,33
+1099,NA,489.1816,NA
+751,NA,442.2668,31
+818,NA,461.2104,NA
+842,NA,228.121,NA
+840,NA,265.176,NA
+823,NA,207.1163,NA
+835,NA,221.1217,256
+1223,NA,173.0212,188
+863,NA,247.1113,65
+1205,NA,365.1059,NA
+1038,NA,427.0763,76
+1248,NA,433.094,70
+1263,Spectral Match to Lactose from NIST14,343.1239,102
+696,NA,228.663,NA
+1169,NA,307.103,102
+1294,Spectral Match to Lactose from NIST14,325.1133,102
+881,NA,464.2594,NA
+1269,NA,280.0925,NA
+845,NA,438.2356,31
+697,NA,149.0599,NA
+928,NA,203.1393,87
+933,NA,189.1236,87
+1317,Spectral Match to Melibiose from NIST14,360.1505,102
+1119,NA,471.2568,196
+1308,NA,388.1817,NA
+1032,NA,355.1856,NA
+1232,L-alpha-Glycerylphosphorylcholine - 30.0 eV,258.1104,34
+917,NA,225.1213,NA
+918,NA,357.2138,NA
+1434,NA,511.1639,NA
+939,NA,208.1334,25
+965,NA,214.0898,NA
+1404,NA,381.0798,NA
+997,"Suspect related to Spectral Match to Phe-Pro from NIST14 (predicted molecular formula: unknown) with delta m/z -16.015 (putative explanation: Met->Asp substitution; atomic difference: -1C,-4H,2O,-1S)",247.1292,169
+1001,NA,271.0418,NA
+904,"Suspect related to Spectral Match to Ile-Pro from NIST14 (predicted molecular formula: C14H18N2O4) with delta m/z 49.982 (putative explanation: Leu/Ile->Tyr substitution; atomic difference: 3C,-2H,1O)",279.1344,65
+1019,"Suspect related to Trp-Phe (predicted molecular formula: C14H17N3O4) with delta m/z -60.036 (putative explanation: Phe->Ser substitution; atomic difference: -6C,-4H,1O)",292.1294,NA
+1114,NA,412.1718,NA
+1105,NA,301.1164,NA
+1422,NA,506.2085,33
+1050,NA,105.0701,NA
+1051,NA,122.0966,NA
+1059,NA,335.2061,NA
+1200,NA,245.0885,NA
+1071,NA,172.1333,188
+1076,NA,243.1343,NA
+1056,"Suspect related to Gln-Ile (predicted molecular formula: C11H20N2O5) with delta m/z 0.984 (putative explanation: Asn->Asp substitution|Deamidation|Gln->Glu substitution|Amide hydroxylation; atomic difference: -1H,-1N,1O|-1H,-1N,1O|-1H,-1N,1O|1O,-1N,-1H)",261.1449,158
+1536,NA,427.0764,NA
+1096,"Suspect related to Spectral Match to Palmitoylcarnitine from NIST14 (predicted molecular formula: C11H21NO4) with delta m/z -168.188 (putative explanation: Brij 35 synthetic polymer terminus (reverse); atomic difference: -12C,-24H)",232.1546,7
+1442,NA,259.1141,NA
+1031,NA,185.1287,55
+787,"Suspect related to Spectral Match to Pantothenic acid from NIST14 (predicted molecular formula: C9H18N2O4) with delta m/z -0.984 (putative explanation: Amidation|Asp->Asn substitution|Glu->Gln substitution; atomic difference: 1H,1N,-1O|1H,1N,-1O|1H,1N,-1O)",219.133,NA
+1138,NA,445.2537,NA
+1045,NA,268.6636,NA
+1072,NA,180.1596,NA
+996,NA,218.1291,21
+1584,NA,197.1286,NA
+1286,NA,570.2511,NA
+771,NA,302.1965,107
+1295,NA,221.0923,NA
+1568,NA,203.2233,277
+1349,0075_4-Aminoantipyrine,204.1135,21
+1389,NA,458.2613,NA
+1356,"Massbank:EA019609 Ranitidine|1,1-Ethenediamine, N-(2-(((5-((dimethylamino)methyl)-2-furanyl)methyl)thio)ethyl)-N'-methyl-2-nitro-|1-N'-[2-[[5-(dimethylaminomethyl)furan-2-yl]methylsulfanyl]ethyl]-1-N-methyl-2-nitroethe",315.1489,NA
+1358,NA,262.0384,NA
+1588,NA,578.2678,141
+1379,NA,726.3677,NA
+1382,NA,247.1112,65
+1384,NA,570.7865,NA
+1497,NA,603.2409,NA
+1457,NA,493.7801,NA
+1449,NA,191.0297,NA
+1433,NA,322.7032,NA
+1523,NA,216.1136,21
+1540,NA,197.0672,NA
+1519,NA,375.1878,NA
+1541,NA,247.1656,NA
+1589,NA,499.2995,NA
+1581,NA,280.1118,NA
+1606,NA,331.198,NA
+1580,NA,213.0871,NA
+1610,"Suspect related to Spectral Match to Gly-Ile from NIST14 (predicted molecular formula: C11H14N2O3) with delta m/z 33.985 (putative explanation: Leu/Ile->Phe substitution; atomic difference: 3C,-2H)",223.108,87
+1397,NA,349.1764,NA
+1621,NA,273.1188,NA
+1129,NA,229.155,65
+1631,"Suspect related to Spectral Match to Ile-Pro-Ile from NIST14 (predicted molecular formula: C16H27N3O4) with delta m/z -16.031 (putative explanation: Leu/Ile->Pro substitution; atomic difference: -1C,-4H)",326.2078,65
+1694,NA,268.6636,146
+1632,NA,133.0761,NA
+1592,NA,227.1757,NA
+1688,NA,261.1314,NA
+1510,NA,284.2071,NA
+1712,Suspect related to Spectral Match to Tyr-Pro from NIST14 (predicted molecular formula: unknown) with delta m/z -49.982 (putative explanation: unspecified; atomic difference: unspecified),229.155,65
+1717,NA,243.1833,NA
+1939,NA,251.137,NA
+1700,NA,313.1692,NA
+1818,NA,158.1178,NA
+1710,NA,543.2399,NA
+1749,NA,348.1771,NA
+1748,NA,483.2455,NA
+1731,NA,465.1989,67
+1732,NA,293.1754,143
+1862,NA,357.2138,NA
+1735,NA,196.0607,NA
+1562,NA,114.0915,NA
+1766,METHYLTHIOADENOSINE - 30.0 eV,298.0973,NA
+1811,"Suspect related to Asp-Ile (predicted molecular formula: C13H16N2O5) with delta m/z 33.985 (putative explanation: Leu/Ile->Phe substitution; atomic difference: 3C,-2H)",281.1138,169
+1782,NA,242.0661,NA
+1759,NA,513.3037,31
+1780,NA,171.113,NA
+1785,"Suspect related to Massbank:PB000408 Phenylalanine|2-amino-3-phenylpropanoic acid (predicted molecular formula: C4H13N9O3) with delta m/z 70.042 (putative explanation: unspecified|Butyryl|Crotonaldehyde|unspecified; atomic difference: 2C,4H,3N|4C,6H,1O|4C,6H,1O|4C,6H,1O)",236.1285,243
+1696,NA,480.7726,NA
+1891,NA,138.0551,NA
+1976,NA,458.2378,NA
+1836,NA,314.208,NA
+1853,Suspect related to Massbank:RP025502 Hexanoyl-L-Carnitine|L-Hexanoylcarnitine|(3R)-3-hexanoyloxy-4-(trimethylazaniumyl)butanoate (predicted molecular formula: C13H25NO5) with delta m/z 15.995 (putative explanation: Ala->Ser substitution|Oxidation or Hydroxylation|Phe->Tyr substitution; atomic difference: 1O|1O|1O),276.1809,7
+1840,NA,506.2244,NA
+1870,NA,174.1491,NA
+1863,NA,136.0732,NA
+1865,NA,211.0868,4
+1775,NA,159.1494,NA
+2167,NA,503.2466,58
+1894,Vanillylmandelic acid CollisionEnergy:205060,181.061,145
+1879,Spectral Match to Ile-Met from NIST14,263.1427,72
+1942,NA,182.0814,145
+2135,NA,293.1753,143
+1955,NA,263.9883,NA
+1971,NA,513.2784,NA
+1945,"Suspect related to Glu-Met (predicted molecular formula: C11H20N2O5) with delta m/z -17.956 (putative explanation: Met->Leu/Ile substitution; atomic difference: 1C,2H,-1S)",261.1448,NA
+1967,NA,211.0833,4
+1970,NA,527.2455,NA
+1992,NA,236.1395,NA
+1858,Suspect related to Spectral Match to Leu-Phe from NIST14 (predicted molecular formula: C15H22N2O4) with delta m/z 15.995 (putative explanation: Ala->Ser substitution|Oxidation or Hydroxylation|Phe->Tyr substitution; atomic difference: 1O|1O|1O),295.1657,72
+2066,NA,376.1873,NA
+2019,NA,271.1768,NA
+2022,NA,541.3461,278
+2033,NA,293.1134,NA
+2056,NA,308.1068,NA
+2062,Suspect related to Spectral Match to Butyrylcarnitine from NIST14 (predicted molecular formula: unknown) with delta m/z 12.0 (putative explanation: formaldehyde adduct|methylation and reduction|unspecified; atomic difference: 1C|1C|1C),244.1547,7
+2078,NA,280.1548,369
+2064,NA,559.3024,348
+2069,NA,462.2554,NA
+2139,NA,462.2332,NA
+2077,NA,300.1918,65
+2088,NA,440.251,31
+2091,NA,610.4037,NA
+2107,NA,487.2306,NA
+2163,NA,175.0347,NA
+2312,NA,305.7058,NA
+2155,NA,556.3098,NA
+2144,NA,327.2394,99
+2159,NA,316.2123,45
+2230,NA,598.2723,341
+2119,NA,487.2884,58
+2188,NA,458.2614,106
+2625,NA,381.2012,NA
+2201,NA,485.3591,NA
+2499,NA,243.1833,107
+2225,NA,359.113,NA
+2254,NA,513.3036,31
+2203,NA,265.155,NA
+2244,NA,240.1232,NA
+2243,NA,571.2955,NA
+2205,NA,535.285,NA
+2241,NA,313.116,NA
+2252,NA,299.1971,NA
+2665,NA,190.0501,NA
+2287,NA,346.1803,NA
+2245,NA,188.0708,NA
+2273,NA,399.2353,NA
+2298,NA,211.1168,NA
+2290,NA,212.176,NA
+2489,NA,559.3028,348
+2297,NA,275.0489,NA
+2276,NA,557.2553,NA
+2544,NA,327.0761,NA
+2322,"Suspect related to Spectral Match to Pro-Val from NIST14 (predicted molecular formula: C10H16N2O2) with delta m/z -18.011 (putative explanation: Dehydration|Pyro-glu from E|carbodiimide crosslinker; atomic difference: -2H,-1O|-2H,-1O|-2H,-1O)",197.1286,NA
+2360,"Suspect related to cyclo(L-Val-L-Pro) (predicted molecular formula: C14H16N2O3) with delta m/z 63.995 (putative explanation: Val->Tyr substitution|unspecified; atomic difference: 4C,1O|4C,1O)",261.1237,NA
+2337,NA,192.1385,NA
+2397,NA,497.2249,341
+2346,NA,452.2145,51
+2473,NA,300.1915,NA
+2359,NA,570.7868,NA
+2403,NA,262.1187,NA
+2138,NA,431.7253,NA
+3073,Suspect related to LAUROYLCARNITINE (predicted molecular formula: C12H23NO4) with delta m/z -98.108 (putative explanation: unspecified; atomic difference: unspecified),246.1703,7
+2422,NA,311.1718,NA
+2374,NA,370.7247,125
+2391,NA,198.0586,NA
+2301,NA,374.2117,111
+2430,NA,105.0336,NA
+2412,NA,561.3143,NA
+2478,NA,458.2764,NA
+2474,NA,380.2116,152
+2492,"Suspect related to PyroGlu-Trp (predicted molecular formula: unknown) with delta m/z 17.027 (putative explanation: replacement of proton with ammonium ion; atomic difference: 3H,1N)",333.1561,NA
+2495,NA,722.3726,NA
+2500,"Suspect related to Spectral Match to Hexaethylene glycol from NIST14 (predicted molecular formula: C14H30O7) with delta m/z 45.058 (putative explanation: unspecified; atomic difference: 2C,7H,1N)",328.2333,166
+2496,NA,305.1576,NA
+3287,NA,290.1965,7
+2570,NA,555.3147,NA
+2516,NA,196.0607,NA
+2520,NA,213.0874,NA
+2521,NA,241.1186,NA
+2530,NA,206.1179,NA
+2559,NA,326.2079,65
+2548,NA,178.0501,NA
+2550,NA,218.0427,NA
+2551,NA,240.0246,NA
+2556,NA,435.078,NA
+2587,NA,501.2327,NA
+2506,NA,317.1902,146
+2650,NA,155.118,364
+2683,NA,200.1759,27
+2675,NA,294.9777,NA
+2471,NA,527.3189,NA
+2754,NA,192.1021,NA
+2603,NA,557.3303,58
+3119,NA,393.2092,NA
+2799,NA,472.2761,NA
+3041,NA,276.1809,NA
+2830,NA,334.2103,NA
+3295,NA,243.1833,107
+2739,NA,299.1971,NA
+3121,NA,513.2221,NA
+2896,PHENYLACETYL-GLUTAMINE,265.1186,17
+2827,Spectral Match to Phe-Pro from NIST14,263.1396,65
+2852,NA,399.2607,NA
+3028,NA,216.1598,21
+2959,NA,278.1602,NA
+2985,NA,283.1156,NA
+2976,NA,260.1496,NA
+3309,NA,479.2506,225
+2507,NA,385.245,NA
+2588,Putative Lys-C6:1,243.1343,17
+2958,NA,514.2877,247
+3273,NA,105.0336,NA
+2814,NA,204.1134,NA
+2741,NA,475.256,225
+3262,Putative Lys-C7:1,257.1498,17
+3070,"Suspect related to Massbank:AU252106 4-Hydroxy-1-(2-hydroxyethyl)-2,2,6,6-tetramethylpiperidine|1-Piperidineethanol, 4-hydroxy-2,2,6,6-tetramethyl-|1-(2-hydroxyethyl)-2,2,6,6-tetramethylpiperidin-4-ol (predicted molecular formula: C16H29NO5) with delta m/z 114.031 (putative explanation: Glutarylation|Water-quenched monolink of BS2-G crosslinker; atomic difference: 5C,6H,3O|5C,6H,3O)",316.2123,107
+3155,NA,196.0913,360
+2943,NA,457.2974,NA
+2937,CAFFEINE - 40.0 eV,195.0879,360
+2727,NA,455.2503,46
+2704,NA,587.3588,164
+3116,NA,265.1551,NA
+2786,NA,411.7274,58
+3099,NA,413.142,NA
+2948,NA,211.1443,285
+2769,NA,392.2189,65
+2960,NA,449.2401,101
+2646,NA,250.1188,260
+2933,NA,342.2393,65
+3198,NA,528.2197,20
+2899,NA,391.7357,174
+3042,NA,212.1186,285
+3081,NA,217.1211,21
+3034,NA,328.2236,NA
+2755,NA,326.1715,NA
+3200,NA,437.2356,NA
+2850,NA,431.7432,61
+3283,NA,458.2622,NA
+3194,NA,129.0549,NA
+3244,NA,381.2194,146
+3438,NA,377.1461,NA
+3108,NA,584.3407,31
+2772,NA,417.7275,129
+3112,NA,416.2855,123
+2849,NA,311.682,NA
+3217,NA,280.1543,369
+3094,Suspect related to Spectral Match to Decaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 1.031 (putative explanation: transamination; atomic difference: transformation),460.3117,123
+3205,NA,542.2351,20
+3229,NA,519.7828,NA
+3334,NA,527.283,NA
+3137,NA,625.8356,NA
+3178,NA,310.108,NA
+3218,NA,346.1802,NA
+3120,NA,622.3561,342
+3394,NA,155.118,364
+3265,NA,295.177,NA
+3521,NA,432.2808,NA
+3368,NA,200.1758,62
+3449,NA,513.304,31
+3258,NA,423.2219,NA
+3313,NA,177.1851,NA
+3199,NA,440.2509,31
+3499,PHENYLACETYL-GLUTAMINE,265.1186,17
+3550,NA,270.0644,NA
+3569,NA,250.1188,260
+3547,"Massbank:AU270106 N-Formyl-4-aminoantipyrine|4-Formylaminoantipyrine|N-(1,5-dimethyl-3-oxo-2-phenylpyrazol-4-yl)formamide",232.1084,21
+3588,NA,326.2078,65
+3513,"Massbank:EA023605 4-Acetamidoantipyrine|N-(1,5-dimethyl-3-oxidanylidene-2-phenyl-pyrazol-4-yl)ethanamide",246.1238,21
+3658,NA,551.3194,297
+3636,NA,316.2123,107
+3467,NA,194.1752,NA
+3651,NA,584.3405,31
+3686,NA,268.1059,NA
+3652,NA,195.0879,360
+3549,NA,254.0907,NA
+3708,NA,228.1133,21
+3689,NA,411.7278,58
+3747,NA,479.2508,225
+3749,NA,516.2924,NA
+3776,NA,276.1638,254
+3800,NA,392.219,65
+3743,NA,385.245,99
+3714,NA,458.2768,143
+3804,NA,431.7432,61
+3763,NA,528.2195,20
+3744,NA,391.1984,65
+3742,NA,380.2117,152
+3751,NA,527.2832,378
+3713,NA,374.2116,111
+3469,NA,476.3073,NA
+3812,NA,198.1282,NA
+3741,NA,347.6983,58
+3770,NA,434.754,125
+3834,NA,207.1594,NA
+3822,Suspect related to Spectral Match to Undecaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z -27.0 (putative explanation: unspecified; atomic difference: unspecified),476.3072,39
+4013,NA,279.1709,NA
+4223,NA,504.3385,NA
+4096,NA,481.262,NA
+4192,NA,411.7276,NA
+4142,NA,225.1325,14
+4183,Spectral Match to Decaethylene glycol from NIST14 [IIN-based on: CCMSLIB00003135910],476.3072,39
+4226,"Massbank:EA023605 4-Acetamidoantipyrine|N-(1,5-dimethyl-3-oxidanylidene-2-phenyl-pyrazol-4-yl)ethanamide",246.1237,21
+4221,NA,481.2621,NA
+4276,NA,327.2017,NA
+4425,"Suspect related to Spectral Match to Hexaethylene glycol from NIST14 (predicted molecular formula: C14H30O8) with delta m/z 61.053 (putative explanation: unspecified|unspecified; atomic difference: 2C,7H,1N,1O|5H,4N)",344.2284,39
+4263,NA,635.3412,NA
+4329,NA,431.7435,61
+4277,NA,245.1864,NA
+4322,NA,417.7276,129
+4336,NA,572.8339,NA
+4391,NA,616.3095,378
+4416,NA,328.2235,NA
+4583,NA,376.2236,65
+4533,NA,455.2506,46
+4371,NA,622.3569,342
+4431,NA,697.8771,NA
+4456,NA,465.5872,NA
+4536,NA,666.3574,NA
+4514,NA,215.1393,234
+4556,NA,480.7497,NA
+4638,NA,587.359,NA
+4405,NA,465.2645,NA
+4586,NA,294.1832,84
+4603,NA,342.2392,65
+4648,NA,389.2168,174
+4659,NA,467.2675,NA
+4784,NA,488.2541,NA
+4734,NA,421.7681,143
+4725,NA,557.3291,58
+4693,NA,286.1944,NA
+4738,NA,415.2558,NA
+4731,NA,339.185,NA
+4543,NA,585.3025,NA
+4623,NA,537.2916,61
+4874,NA,371.228,NA
+4565,Suspect related to Spectral Match to Nonaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z -27.0 (putative explanation: unspecified; atomic difference: unspecified),388.2546,39
+4822,NA,571.2809,NA
+4857,NA,457.2977,NA
+4905,NA,450.279,143
+4990,NA,475.2563,225
+4886,NA,481.2778,NA
+4587,NA,485.2437,67
+4946,NA,205.0797,71
+4987,NA,415.7246,NA
+4931,NA,351.6957,NA
+5052,NA,245.1286,NA
+5149,NA,514.2878,247
+5109,HARMANE CollisionEnergy:102040,183.1107,145
+4988,NA,453.7567,NA
+5146,Putative Lys-C8:1 + O (hydroxylated tatty acid),289.1765,17
+4952,NA,546.2927,101
+5183,NA,225.1325,14
+4943,NA,529.298,NA
+5191,NA,235.6708,72
+5090,NA,560.328,38
+5185,NA,389.2169,174
+5238,NA,591.2755,NA
+4974,NA,542.2351,20
+5277,NA,569.2937,NA
+5207,NA,256.8509,NA
+5281,NA,422.7325,52
+5268,NA,633.8306,269
+5375,NA,586.8256,10
+5120,NA,413.2765,65
+5309,NA,617.2968,NA
+5311,NA,756.405,NA
+5329,NA,362.2481,NA
+5293,NA,257.1499,17
+5360,NA,516.2745,NA
+5435,NA,584.3413,NA
+5424,NA,541.2631,NA
+5155,NA,486.7677,NA
+5377,NA,597.8169,NA
+5500,NA,440.2511,NA
+5493,NA,343.7177,83
+5173,NA,548.3654,NA
+5470,NA,394.2235,NA
+5380,NA,879.4943,19
+5461,NA,525.2889,NA
+5566,NA,495.7357,NA
+4989,NA,470.2981,106
+5521,NA,415.2544,NA
+6016,Suspect related to Spectral Match to Hexaethylene glycol from NIST14 (predicted molecular formula: C19H37N5O6) with delta m/z 149.105 (putative explanation: unspecified; atomic difference: unspecified),432.2808,39
+5523,NA,437.2359,NA
+5524,NA,460.312,123
+5300,NA,663.8261,NA
+5402,"Suspect related to Spectral Match to Undecaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 17.027 (putative explanation: replacement of proton with ammonium ion; atomic difference: 3H,1N)",520.3333,39
+5507,NA,154.1228,NA
+5439,NA,503.3067,NA
+5080,NA,383.217,NA
+5456,NA,424.2305,NA
+5676,NA,379.2441,NA
+5673,NA,348.208,NA
+5663,NA,474.2697,NA
+5378,NA,421.2326,226
+5481,NA,695.4091,NA
+5531,NA,562.3093,NA
+5635,NA,292.1995,NA
+5563,NA,467.262,129
+5709,NA,541.232,NA
+5743,NA,413.2762,NA
+5308,NA,517.786,105
+5408,NA,522.2865,NA
+5723,NA,436.7499,NA
+5535,NA,489.2713,NA
+5749,NA,554.3191,65
+5734,NA,530.7933,NA
+5780,NA,537.2911,NA
+5669,NA,533.782,NA
+5679,NA,374.2294,NA
+6024,NA,450.2791,NA
+5820,NA,460.2396,NA
+5838,NA,548.2574,NA
+5880,NA,504.2804,19
+5817,NA,427.2667,NA
+5892,NA,627.3542,69
+5825,NA,568.3097,19
+5872,NA,267.674,NA
+5934,NA,378.2371,30
+5655,NA,205.0797,71
+5654,NA,675.3358,46
+5841,NA,563.3251,69
+5877,NA,662.8727,69
+5986,NA,217.1548,292
+5953,NA,709.4259,90
+5688,NA,574.3243,NA
+6001,NA,583.3071,105
+5932,NA,650.3877,19
+6084,NA,422.7324,52
+6078,NA,415.7245,NA
+5895,NA,180.1596,192
+5970,NA,208.1909,221
+6128,NA,404.2401,NA
+5778,NA,844.4573,NA
+6125,NA,572.8098,NA
+6123,NA,325.6978,8
+6151,NA,498.9341,NA
+5831,NA,163.1331,192
+6130,NA,491.2957,NA
+6189,NA,342.2395,NA
+6153,NA,747.8983,NA
+6230,Spectral Match to Decaethylene glycol from NIST14 [IIN-based on: CCMSLIB00003135910],476.3071,39
+5666,NA,478.2529,NA
+6317,NA,569.3141,NA
+6140,NA,459.28,39
+6145,NA,481.2623,NA
+6176,desmethylenylnocardamine,604.3546,38
+6180,NA,467.262,129
+5708,NA,541.7856,67
+6258,NA,616.3312,58
+6210,NA,589.3255,NA
+6213,NA,779.4311,8
+6147,NA,504.3389,NA
+6234,NA,421.2324,226
+6263,NA,683.3643,NA
+6216,NA,697.8573,NA
+6072,NA,393.2503,NA
+6159,NA,567.3504,159
+6306,NA,279.1325,NA
+6318,NA,592.3913,NA
+6355,NA,257.1501,17
+6148,NA,663.374,69
+6329,NA,425.2763,NA
+6395,"Suspect related to Spectral Match to Undecaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 61.053 (putative explanation: unspecified|unspecified; atomic difference: 2C,7H,1N,1O|5H,4N)",564.3598,39
+6297,NA,547.3323,NA
+6273,NA,626.3891,NA
+6397,NA,205.0797,71
+6414,NA,673.8623,NA
+6412,NA,536.3046,NA
+6415,NA,684.855,NA
+6432,NA,563.3252,69
+6398,NA,573.78,NA
+6385,NA,662.8726,69
+6202,NA,486.2842,NA
+6512,NA,710.3632,NA
+6585,NA,627.3551,NA
+6279,NA,586.8257,NA
+6612,NA,618.3141,46
+6573,NA,427.7715,30
+6534,NA,676.8887,69
+6543,NA,451.595,69
+6511,NA,687.8794,NA
+6698,NA,332.7057,NA
+6676,NA,535.782,NA
+6592,NA,664.4036,NA
+6510,NA,774.4057,65
+6338,NA,691.3517,141
+6655,NA,297.1744,NA
+6674,NA,593.3409,NA
+6649,NA,583.3061,105
+6545,NA,698.8705,NA
+6765,NA,156.1385,313
+6709,NA,183.0783,27
+6714,NA,560.3281,38
+6761,NA,228.2074,NA
+6590,NA,576.3512,65
+6966,NA,107.0704,NA
+6843,NA,208.1909,221
+6733,NA,716.3243,NA
+6834,NA,184.1528,27
+6946,NA,397.7426,NA
+6740,NA,183.1494,27
+6779,NA,698.3717,NA
+6436,NA,642.3443,19
+6670,NA,641.8438,NA
+6871,NA,548.365,NA
+6444,NA,637.3495,61
+7044,NA,333.2076,NA
+6867,NA,503.3073,NA
+7130,NA,633.8297,19
+6862,NA,361.6958,NA
+7356,NA,648.3807,38
+6887,NA,324.6942,NA
+7046,NA,627.3552,119
+6951,NA,468.7615,58
+6648,NA,704.3468,NA
+6923,NA,217.1548,292
+7026,NA,207.1593,221
+6983,NA,567.3509,197
+6883,NA,505.3029,67
+6787,NA,561.3005,NA
+7009,NA,313.2101,11
+6963,NA,611.3359,6
+6997,NA,296.1833,NA
+6972,NA,729.3944,378
+6958,Suspect related to Spectral Match to Undecaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 105.079 (putative explanation: unspecified; atomic difference: unspecified),608.3859,39
+7019,NA,304.6967,11
+7016,NA,581.9815,NA
+6996,NA,532.7912,58
+6892,NA,723.3978,NA
+7076,NA,315.6881,NA
+6865,NA,745.3806,NA
+7033,NA,589.8124,58
+7058,NA,740.9171,119
+7082,NA,456.2825,65
+6936,NA,712.4072,69
+7029,NA,774.4038,65
+7090,NA,387.7055,NA
+7067,NA,878.4991,NA
+6855,NA,695.4094,296
+7364,NA,561.3019,159
+7030,Spectral Match to Tyr-Pro-Phe from NIST14,426.2031,67
+7199,NA,536.3043,NA
+7168,NA,754.4003,NA
+7051,NA,735.4404,297
+7581,NA,653.842,58
+6664,NA,368.2251,NA
+7150,NA,796.3853,NA
+7158,NA,803.9537,NA
+7011,NA,697.4245,69
+6901,NA,716.8838,212
+7135,NA,513.2349,67
+7191,NA,446.2874,NA
+7204,NA,780.3873,26
+7074,NA,505.3027,67
+7256,NA,549.8017,NA
+7272,NA,604.3544,NA
+7105,NA,559.7961,19
+7286,NA,593.8336,61
+6982,NA,686.8834,NA
+7299,NA,691.8322,NA
+7307,NA,705.9109,NA
+7302,NA,470.9436,NA
+7320,NA,626.3883,NA
+7328,"Suspect related to Spectral Match to Undecaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 61.053 (putative explanation: unspecified|unspecified; atomic difference: 2C,7H,1N,1O|5H,4N)",564.3599,39
+7415,NA,333.7133,NA
+7370,NA,612.8595,69
+7400,NA,355.2206,38
+7606,NA,717.384,65
+7385,NA,346.7074,NA
+7518,NA,177.1126,271
+7387,NA,692.4066,38
+7398,NA,776.4362,NA
+7464,NA,666.4185,159
+7460,NA,604.6598,NA
+7468,NA,906.4864,NA
+7371,NA,729.4139,NA
+7472,NA,476.2988,239
+7489,Suspect related to Spectral Match to Undecaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 149.105 (putative explanation: unspecified; atomic difference: unspecified),652.4123,39
+7519,NA,720.3671,NA
+7456,NA,335.2231,11
+7523,NA,337.7009,NA
+7484,NA,326.7098,11
+7539,NA,318.1947,NA
+7622,NA,359.1946,83
+7524,NA,505.3026,67
+7511,NA,477.7745,239
+7558,NA,534.795,NA
+7961,NA,523.8038,129
+7560,NA,578.8282,NA
+7548,NA,199.0945,62
+7556,NA,542.3269,NA
+7574,NA,224.0921,194
+7656,NA,386.2317,NA
+7582,NA,751.8656,NA
+7589,NA,682.3939,NA
+7592,NA,771.4551,NA
+7739,NA,676.8884,119
+7391,NA,446.2403,NA
+7703,NA,405.7402,NA
+7726,NA,333.2078,NA
+7698,NA,648.381,38
+7773,NA,292.1119,NA
+7482,NA,321.1314,NA
+7735,NA,815.8946,NA
+7680,NA,450.7324,NA
+7736,NA,569.293,NA
+7743,NA,644.675,NA
+7766,NA,313.21,NA
+7701,Suspect related to Spectral Match to Undecaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 105.079 (putative explanation: unspecified; atomic difference: unspecified),608.386,39
+7748,NA,708.708,NA
+7704,NA,299.1492,263
+7263,Suspect related to Spectral Match to Ile-Pro-Ile from NIST14 (predicted molecular formula: unknown) with delta m/z 97.053 (putative explanation: unspecified; atomic difference: unspecified),439.2921,65
+7488,NA,633.8428,NA
+7768,NA,540.8101,NA
+7801,NA,672.4069,50
+7786,NA,690.372,19
+7788,NA,643.3682,NA
+8115,NA,395.2294,30
+7795,NA,789.451,NA
+7833,NA,701.3633,NA
+7738,NA,670.4148,NA
+7806,NA,723.3455,NA
+7846,NA,709.3462,NA
+7852,NA,712.3528,NA
+7982,NA,368.7203,NA
+7881,NA,736.4331,38
+7876,NA,377.2339,38
+7931,NA,794.4041,NA
+7892,NA,582.7887,120
+7494,NA,459.2638,164
+8249,NA,598.328,67
+7906,NA,481.2457,NA
+8012,NA,228.2074,NA
+7890,NA,698.8848,19
+7962,NA,571.2801,NA
+7621,NA,184.1528,27
+7967,NA,156.1386,313
+7990,NA,532.3114,NA
+7950,NA,348.7229,11
+8013,NA,715.9225,50
+7956,NA,357.2362,11
+7980,Suspect related to Spectral Match to Undecaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z 193.132 (putative explanation: unspecified; atomic difference: unspecified),696.4384,39
+8072,NA,646.3551,58
+8053,NA,207.1594,221
+8164,NA,411.7584,NA
+8065,NA,746.9085,23
+8124,NA,682.3718,NA
+8123,NA,599.3498,266
+8083,NA,889.4781,82
+8267,NA,526.3615,65
+8148,NA,667.878,6
+8132,NA,692.4069,NA
+8154,NA,682.6943,NA
+8136,NA,355.2206,38
+8250,NA,669.362,NA
+8155,NA,655.3676,NA
+8054,NA,822.5094,90
+8516,NA,710.384,58
+8167,NA,721.3746,NA
+8200,NA,572.3304,NA
+8173,NA,795.4078,NA
+8206,NA,201.1963,245
+8201,NA,784.415,6
+8166,NA,496.267,NA
+8153,NA,326.7098,NA
+8127,NA,335.2231,11
+8051,NA,652.4123,NA
+8226,NA,669.403,NA
+8234,NA,382.2583,NA
+7954,NA,470.7668,NA
+8258,NA,647.3506,NA
+8253,NA,636.3598,NA
+8171,NA,784.9171,NA
+8203,NA,608.3783,NA
+8239,NA,658.3414,NA
+8255,NA,773.4258,6
+8220,NA,773.9276,6
+8262,NA,516.287,NA
+8068,NA,761.4199,82
+8263,NA,318.1963,NA
+8272,NA,669.3327,NA
+8294,NA,464.7716,NA
+8342,NA,723.4402,NA
+8310,NA,660.3701,NA
+8309,NA,753.7291,NA
+8351,NA,596.3416,NA
+8369,NA,697.8694,NA
+8365,NA,697.8708,61
+8403,NA,418.2385,NA
+8368,NA,746.402,6
+8245,NA,806.3992,NA
+8360,NA,399.2468,38
+8241,NA,583.3808,44
+8406,NA,664.3201,120
+8829,NA,739.9057,269
+8443,NA,493.292,84
+8089,NA,794.4782,NA
+7991,NA,640.4035,69
+8457,NA,992.5785,NA
+8637,NA,687.3851,NA
+8453,NA,719.8989,NA
+8456,NA,496.7932,NA
+8799,Suspect related to Phenylacetyl-L-glutamine (predicted molecular formula: C13H22N2O4) with delta m/z 6.048 (putative explanation: unspecified; atomic difference: unspecified),271.1661,17
+8461,NA,465.6118,30
+8480,NA,393.2611,NA
+8656,NA,697.9151,30
+8552,NA,532.2743,NA
+8463,NA,945.5345,NA
+8507,NA,651.8933,NA
+8517,NA,837.4549,6
+8271,NA,364.2266,NA
+8554,NA,1041.5581,58
+8535,NA,946.0362,NA
+8522,NA,379.2494,11
+8551,NA,521.2831,NA
+8564,NA,761.4204,82
+8563,NA,630.3231,NA
+8582,NA,927.5155,NA
+8537,NA,867.468,NA
+8540,NA,370.7361,11
+8618,NA,303.192,17
+8596,NA,799.4553,58
+8615,NA,215.1757,NA
+8629,NA,377.2339,38
+8713,NA,671.3652,6
+8666,NA,633.3653,19
+8633,NA,740.4646,39
+8645,NA,624.8519,19
+8651,NA,697.4422,38
+8687,NA,683.3361,NA
+8672,NA,942.4312,NA
+8292,"Suspect related to Spectral Match to Ile-Gly-Ile from NIST14 (predicted molecular formula: unknown) with delta m/z 56.062 (putative explanation: Diethylation, analogous to Dimethylation|Gly->Leu/Ile substitution; atomic difference: 4C,8H|4C,8H)",358.2707,NA
+8684,NA,816.9418,6
+8680,NA,560.823,19
+8694,NA,462.751,NA
+8658,NA,348.723,NA
+8614,NA,357.2363,11
+8730,NA,571.8134,NA
+8714,NA,525.2714,67
+8699,NA,817.4426,NA
+8733,NA,678.6919,6
+8721,NA,671.0312,NA
+8717,NA,1006.5439,6
+8893,NA,811.4416,19
+8757,NA,697.4252,109
+8981,NA,399.2468,NA
+8792,NA,474.2913,NA
+8355,NA,701.3885,96
+8907,NA,747.4085,NA
+8914,NA,631.3461,NA
+8883,NA,631.6799,23
+8957,NA,751.3665,NA
+8798,NA,752.9058,105
+8849,NA,736.4176,10
+8845,NA,758.3988,NA
+8729,NA,489.2874,8
+8955,NA,736.9199,NA
+8791,NA,803.4289,NA
+8856,NA,433.245,65
+8859,NA,802.9269,19
+8861,NA,483.0729,NA
+9136,NA,421.26,38
+8874,NA,647.8628,NA
+8889,NA,813.918,NA
+8892,NA,977.5684,8
+8901,NA,738.8997,NA
+8436,"Suspect related to Spectral Match to Leu-Leu-Arg from NIST14 (predicted molecular formula: C23H42N4O5) with delta m/z 54.034 (putative explanation: unspecified|3x water; atomic difference: 3C,4H,1N|H6,3O)",455.3238,106
+9382,NA,386.239,NA
+8952,NA,701.7296,NA
+9000,NA,552.8092,NA
+8790,NA,814.0965,NA
+8963,NA,541.8182,30
+8944,NA,483.8087,NA
+8978,NA,955.5257,296
+8985,NA,775.4129,NA
+9146,NA,694.3308,NA
+8988,NA,478.2668,67
+8997,NA,725.8905,19
+8974,NA,401.2625,11
+9030,NA,587.3121,19
+9086,NA,779.9399,NA
+9049,NA,731.9066,NA
+9045,NA,589.8243,NA
+9062,NA,768.9481,69
+9406,NA,379.2494,11
+8867,NA,538.36,65
+9101,NA,370.7362,11
+9606,NA,529.7979,NA
+9139,NA,742.7255,NA
+9147,NA,702.8445,NA
+9154,NA,768.4421,23
+9179,NA,848.9362,NA
+9117,NA,431.5791,NA
+9092,NA,496.3048,38
+9613,NA,736.4174,10
+9153,NA,874.9621,NA
+9290,NA,828.1333,NA
+9212,NA,784.9441,NA
+9241,NA,451.7714,30
+9224,NA,902.5352,NA
+9173,NA,646.8661,NA
+9283,NA,621.3514,NA
+9299,NA,639.8273,NA
+9270,NA,321.1315,NA
+9215,NA,443.2731,38
+9328,NA,720.8625,NA
+9282,NA,195.0654,NA
+9307,NA,712.3532,NA
+9311,NA,723.3442,NA
+9325,NA,287.2334,NA
+9404,NA,518.318,38
+9345,NA,757.3388,NA
+9344,NA,309.2147,108
+9336,NA,698.8844,19
+9305,NA,701.3621,NA
+9317,NA,149.0236,251
+9416,NA,814.4471,NA
+9473,NA,544.3482,NA
+9386,NA,832.9784,119
+9364,NA,690.3725,19
+9434,NA,664.3674,NA
+9533,NA,423.2757,11
+9476,NA,685.8566,NA
+9809,NA,637.3622,8
+9429,NA,784.0967,6
+9496,NA,577.8243,NA
+9501,NA,1168.5938,NA
+9070,NA,401.2626,11
+9469,NA,813.1075,6
+9651,NA,705.1423,NA
+9481,NA,863.4139,NA
+9508,NA,829.4073,NA
+9502,NA,683.3382,NA
+9524,NA,940.1878,NA
+9540,NA,602.3435,NA
+9478,NA,852.9264,NA
+9480,NA,860.9372,19
+9877,NA,591.3523,30
+9534,NA,661.3562,247
+9562,NA,587.8642,NA
+9277,NA,637.3895,NA
+9593,NA,816.4602,NA
+9580,NA,397.7429,65
+9595,NA,852.4254,NA
+9597,NA,780.9068,NA
+9584,NA,921.4718,96
+9591,NA,794.4777,109
+9643,NA,873.9855,NA
+9603,NA,461.2396,96
+9628,NA,873.4838,6
+9756,NA,828.466,NA
+9714,NA,936.5526,90
+9488,NA,540.3309,38
+9708,NA,539.2868,67
+9680,NA,842.4778,197
+9699,NA,1035.1616,NA
+9712,NA,557.3667,NA
+9697,NA,651.8569,NA
+10222,NA,430.2657,NA
+10360,NA,501.3059,30
+9701,NA,937.5119,6
+10048,NA,688.3749,103
+9765,NA,702.8971,58
+9738,NA,777.9164,NA
+10191,NA,766.9259,58
+9831,NA,824.1168,37
+9859,NA,487.3134,NA
+9786,NA,935.4794,212
+9798,NA,752.7398,23
+9880,NA,623.4141,NA
+9810,NA,345.222,NA
+10347,NA,445.289,11
+9815,NA,776.7927,NA
+9452,Massbank:LU022002 Labetalol|2-hydroxy-5-[1-hydroxy-2-(4-phenylbutan-2-ylamino)ethyl]benzamide,329.1862,NA
+9830,NA,689.4355,65
+10129,NA,526.2754,NA
+9883,NA,673.3819,8
+9861,NA,672.8809,8
+9892,NA,957.5412,NA
+9916,NA,1056.0783,6
+10236,NA,790.9366,NA
+9715,NA,559.9174,37
+10284,NA,519.9662,30
+9907,NA,683.8709,NA
+9616,NA,465.2862,NA
+9833,NA,479.2745,52
+9994,NA,801.929,NA
+10224,NA,654.87,67
+9829,NA,924.0086,NA
+9927,NA,765.1008,NA
+9967,NA,738.9107,23
+9959,NA,216.0482,NA
+9950,NA,1067.0698,NA
+9952,NA,1078.0599,NA
+9962,NA,545.6539,NA
+9938,NA,817.9774,23
+10254,NA,817.4758,23
+9879,NA,545.3193,NA
+9869,NA,757.7742,NA
+9763,NA,557.333,30
+9977,NA,711.7147,6
+9889,NA,744.4267,NA
+10033,NA,812.4172,NA
+9886,NA,719.0415,NA
+9979,NA,704.0542,6
+9990,NA,704.3882,6
+10022,NA,703.4285,NA
+9993,NA,790.4365,NA
+10027,NA,502.7109,NA
+10038,NA,486.7416,NA
+10744,NA,475.7514,56
+10001,NA,743.9253,NA
+9696,NA,562.3441,38
+10101,NA,495.8033,NA
+10017,NA,779.946,NA
+10079,NA,738.0706,NA
+10045,NA,779.4444,175
+9996,NA,950.4954,NA
+10040,NA,990.5981,NA
+10116,NA,616.3388,19
+10151,NA,739.4723,69
+10225,NA,852.9939,23
+10114,NA,866.9773,6
+9973,NA,803.474,NA
+10171,NA,815.7634,NA
+10146,NA,725.4414,NA
+10144,NA,866.4758,6
+10123,NA,606.5792,NA
+9731,NA,273.1822,17
+10493,NA,867.9819,19
+10159,NA,808.4357,6
+10176,NA,859.9708,NA
+10175,NA,808.7701,NA
+10181,NA,859.4695,19
+10155,NA,870.4609,NA
+10268,NA,861.1533,37
+10248,NA,714.4234,44
+10310,NA,646.1173,37
+10194,NA,587.8265,NA
+10183,NA,842.4988,58
+10294,NA,660.6206,NA
+10296,NA,774.43,NA
+10295,NA,646.1155,37
+10288,NA,880.4911,NA
+10276,NA,646.3655,37
+10280,NA,746.9143,19
+10309,NA,1062.0777,NA
+10278,NA,619.3489,NA
+10357,NA,880.1568,37
+10087,NA,584.3573,38
+10330,NA,708.3876,NA
+10342,NA,432.7294,96
+10371,NA,572.8408,8
+10344,NA,864.4516,96
+10107,NA,487.2994,38
+10382,NA,449.2685,NA
+10415,NA,822.404,46
+10453,NA,902.0218,NA
+10406,NA,750.7342,NA
+10418,NA,840.4416,73
+10411,NA,678.7278,NA
+10416,NA,850.8023,6
+10439,NA,625.7011,37
+10441,NA,785.7623,NA
+10522,NA,466.7646,NA
+10463,NA,583.8321,NA
+10500,NA,701.072,NA
+10612,NA,591.3477,NA
+10510,NA,697.3915,37
+10502,NA,689.8911,105
+10566,NA,608.3594,8
+10468,NA,625.3663,37
+10492,NA,697.7258,37
+10704,NA,402.2433,65
+10519,NA,402.7447,65
+10567,NA,719.3912,73
+10578,NA,893.4705,26
+10582,NA,719.8926,73
+10684,NA,802.9276,NA
+10847,NA,845.7956,NA
+10595,NA,846.4639,6
+10597,NA,846.13,6
+10242,NA,606.3702,38
+10607,NA,739.4424,63
+10627,NA,935.0351,NA
+10632,NA,547.8325,NA
+10638,NA,794.9159,NA
+10614,NA,798.9633,NA
+10642,NA,627.8468,NA
+10910,NA,966.5976,69
+10721,NA,862.492,NA
+10659,NA,855.4297,NA
+10678,NA,820.5022,NA
+10650,NA,983.548,NA
+10688,NA,812.4206,6
+10690,NA,1218.1269,NA
+10681,NA,760.3817,NA
+10624,NA,926.5199,148
+10686,NA,613.3304,NA
+10689,NA,819.7503,NA
+10653,NA,769.4645,NA
+10692,NA,895.4886,NA
+10710,NA,569.366,65
+10711,NA,829.1187,NA
+10707,NA,821.791,6
+10732,NA,729.4224,8
+10753,NA,862.9927,NA
+10734,NA,628.3831,38
+10718,NA,894.9874,NA
+10789,NA,656.1727,NA
+10777,NA,808.9622,NA
+10778,NA,1087.1019,NA
+10781,NA,1065.1187,23
+10768,NA,946.2139,255
+10831,NA,710.4142,23
+10832,NA,717.7441,NA
+10834,NA,1076.1121,NA
+10850,NA,765.3974,NA
+10882,NA,782.9399,NA
+10879,NA,514.9684,30
+10864,NA,514.6344,30
+10914,NA,672.884,266
+11279,NA,771.4472,30
+10868,NA,793.4303,NA
+10893,NA,552.3021,67
+10973,NA,1065.6183,NA
+10921,NA,1102.5927,NA
+10741,NA,650.396,38
+10980,NA,771.9491,30
+10997,NA,1111.6283,NA
+10930,NA,551.801,67
+10898,NA,562.7911,NA
+10981,NA,945.5055,NA
+10976,NA,1111.1261,NA
+10958,NA,955.9903,NA
+10940,NA,810.5092,NA
+10858,NA,782.4385,NA
+10994,NA,934.5097,6
+10951,NA,923.0178,6
+10984,NA,923.5191,6
+10964,NA,704.3877,NA
+10968,NA,910.4883,NA
+10975,NA,615.6814,6
+10979,NA,741.422,23
+10932,NA,634.7063,NA
+10991,NA,733.7604,23
+10941,NA,750.417,322
+10995,NA,750.7521,322
+10999,NA,538.9691,19
+10990,NA,1100.6374,23
+10974,NA,1100.1357,23
+11012,NA,734.0948,23
+10996,NA,582.8176,NA
+11011,NA,748.7499,NA
+11007,NA,807.9491,19
+11010,NA,741.0873,23
+10955,NA,1058.1038,134
+11028,NA,658.7018,6
+10909,NA,850.483,NA
+10797,NA,511.328,NA
+11026,NA,875.1411,NA
+11027,NA,987.0474,6
+10950,NA,951.5567,23
+11269,NA,921.4726,65
+11107,NA,852.4998,NA
+11049,NA,897.4863,73
+10927,NA,951.0557,23
+11038,NA,632.378,NA
+11166,NA,578.3349,NA
+11210,NA,814.4894,NA
+11118,NA,837.1267,NA
+11184,NA,761.4047,NA
+11101,NA,1110.0992,NA
+10931,NA,748.0937,134
+11179,NA,818.7857,37
+11434,NA,924.5239,19
+11195,NA,613.5479,37
+11229,NA,672.4098,38
+11226,NA,739.4252,105
+11365,NA,601.3353,NA
+11213,NA,747.9384,105
+11241,NA,1040.5814,NA
+11197,NA,766.4325,48
+11136,NA,780.9383,NA
+11266,NA,645.3585,NA
+11268,NA,772.3956,NA
+11270,NA,1267.7269,NA
+11260,NA,540.3515,NA
+11397,NA,925.0256,19
+11265,NA,634.3678,NA
+11362,NA,454.2846,NA
+11281,NA,744.9319,105
+11383,NA,645.1642,NA
+11331,NA,240.1595,NA
+11324,NA,497.2924,NA
+11342,NA,664.9014,8
+11318,NA,891.1524,NA
+11291,NA,663.1213,NA
+11275,NA,1021.5743,48
+12072,NA,883.491,6
+11944,NA,883.8254,6
+11361,NA,884.1596,NA
+11312,NA,779.4441,NA
+11191,NA,806.2019,37
+11986,NA,708.3751,19
+11445,NA,637.8777,244
+11387,NA,533.3412,NA
+11456,NA,916.5132,19
+11484,NA,892.7892,NA
+11461,NA,625.8619,63
+11496,NA,842.4638,NA
+11473,NA,916.0112,19
+11465,NA,927.003,19
+11459,NA,825.4901,69
+11134,NA,694.4221,38
+11534,NA,1149.6024,NA
+11557,NA,888.4969,NA
+11556,NA,888.8311,NA
+11752,NA,643.6137,NA
+11569,NA,785.1031,37
+11565,NA,702.1946,NA
+11152,NA,931.5064,NA
+11604,NA,857.8156,48
+11292,NA,468.9599,NA
+11586,NA,224.0822,NA
+11590,NA,785.7906,48
+11558,NA,647.8731,NA
+11870,NA,733.7618,NA
+11613,NA,913.1693,NA
+11614,NA,837.9786,37
+11659,NA,1001.0903,23
+11650,NA,667.7295,NA
+11805,NA,950.059,NA
+11788,NA,950.5608,305
+11776,NA,876.9963,NA
+11777,NA,887.9877,NA
+11784,NA,917.5018,NA
+11816,NA,901.7529,NA
+11699,NA,246.2431,NA
+11757,NA,877.4966,NA
+11716,NA,898.9795,NA
+11827,NA,917.8363,NA
+11761,NA,555.3545,11
+11787,NA,706.1372,NA
+11826,NA,721.6049,37
+11864,NA,941.18,NA
+11846,NA,1012.2116,6
+11894,NA,1048.5823,148
+11888,NA,713.8545,67
+11848,NA,1012.5464,NA
+11717,NA,1057.5984,148
+11767,NA,577.6727,50
+11906,NA,1019.8725,NA
+11795,NA,866.0047,50
+11852,NA,890.9692,NA
+12689,NA,961.5031,96
+11861,NA,716.4362,NA
+11897,NA,1019.5386,NA
+12372,NA,759.4386,58
+11766,NA,577.3372,50
+11928,NA,918.0085,NA
+12467,NA,865.5037,50
+11922,NA,994.076,305
+11908,NA,823.4681,58
+11912,NA,615.3528,30
+11868,NA,835.9852,175
+11951,NA,918.5086,NA
+12167,NA,851.4858,NA
+11899,NA,483.6353,NA
+11769,NA,1049.0849,148
+12301,NA,916.5136,NA
+12216,NA,799.7581,NA
+12027,NA,576.6634,19
+12041,NA,873.9993,37
+12043,NA,931.5113,NA
+12095,NA,926.5206,148
+12042,NA,873.4977,37
+12074,NA,931.8455,NA
+12046,"Candidate Trihydroxylated bile acid (delta mass 168.0727; sirius atomic difference: 9C, 12H, 3O; buddy atomic difference: 8C, 12H, 2N, 1S)",577.3676,47
+11508,NA,983.2015,6
+12242,NA,983.5355,NA
+12087,NA,514.3199,65
+12507,NA,836.4871,175
+12093,NA,525.3101,NA
+11959,NA,498.3107,38
+12124,NA,643.854,19
+12129,NA,887.0102,NA
+12153,NA,907.4968,NA
+12191,NA,317.2075,17
+12282,NA,405.5988,11
+12235,NA,599.3807,47
+12292,NA,986.053,NA
+12280,NA,513.3205,NA
+11998,NA,679.8775,NA
+12307,NA,307.1637,NA
+12020,NA,512.9861,38
+11885,Putative Lys-C9:1,285.1817,17
+12383,NA,914.5269,19
+12381,NA,715.3967,8
+12313,NA,715.898,NA
+12368,NA,729.4222,NA
+12550,NA,986.5529,319
+12373,NA,794.9573,NA
+12380,NA,914.026,19
+12408,NA,734.6592,NA
+12358,NA,610.0207,19
+12337,NA,609.6864,19
+12415,NA,978.875,48
+12455,NA,986.5385,NA
+12433,NA,801.4743,105
+12414,NA,734.4086,NA
+12426,NA,1049.9062,NA
+12435,NA,1050.2406,NA
+12442,NA,986.2027,48
+12427,NA,979.2096,48
+12514,NA,675.3975,63
+12448,NA,675.396,63
+12573,NA,778.0977,NA
+12488,NA,1181.5885,96
+12487,NA,1022.0737,48
+12438,NA,683.91,63
+12449,NA,1049.5719,NA
+12503,NA,591.2985,96
+12482,NA,697.3779,NA
+12509,NA,739.9043,48
+12545,NA,1166.6414,6
+12523,NA,1120.2463,NA
+12522,NA,1120.5804,NA
+12486,NA,909.5195,37
+12578,NA,748.4047,NA
+12762,NA,792.854,NA
+12596,NA,1085.5712,6
+12207,NA,527.6614,38
+12585,NA,414.5983,NA
+12723,NA,420.2738,11
+13277,NA,621.3938,47
+13580,NA,664.8867,30
+12744,NA,865.5035,50
+12652,NA,532.2938,56
+12607,NA,1008.242,NA
+12670,NA,756.6843,NA
+12610,NA,1057.5916,48
+12608,NA,675.8785,NA
+12683,NA,680.9046,103
+12693,NA,619.8638,37
+12694,NA,622.3411,37
+12601,NA,471.2769,65
+12698,NA,1221.6928,37
+12749,NA,611.3504,37
+12656,NA,941.5457,109
+12753,NA,1008.5763,255
+13485,NA,921.5203,6
+12651,NA,954.0265,73
+12737,NA,921.8544,6
+12754,NA,267.168,NA
+12858,NA,945.526,48
+12756,NA,929.4812,NA
+12763,NA,990.566,NA
+12741,NA,802.5198,65
+12780,NA,765.9242,6
+12766,NA,909.1874,NA
+12969,NA,401.7638,NA
+12807,NA,857.4951,214
+12803,NA,766.175,6
+12907,NA,1057.5949,48
+12861,NA,1059.8907,NA
+12887,NA,771.7898,NA
+12872,NA,1045.5687,6
+12853,NA,1045.2352,6
+12843,NA,1045.9029,NA
+12846,NA,1052.8954,NA
+12847,NA,784.1781,NA
+12909,NA,1157.1797,23
+12839,NA,643.374,NA
+12836,NA,1052.5616,NA
+12852,NA,1020.8956,6
+12874,NA,788.435,NA
+12897,NA,816.9239,NA
+12890,NA,779.1171,NA
+12912,NA,907.5627,109
+12873,NA,1021.2294,NA
+13681,NA,743.9016,377
+12920,NA,488.9791,NA
+12851,NA,542.3368,NA
+13014,Triphenyltetrazolium,299.1296,NA
+12989,NA,859.4649,NA
+12987,NA,824.4475,236
+12993,NA,754.892,NA
+13640,Putative Lys-C9:1,285.1821,17
+13004,NA,254.1389,NA
+13461,NA,802.4656,NA
+13011,NA,463.2842,NA
+13045,NA,115.1119,NA
+12710,NA,191.1644,NA
+13047,NA,208.191,NA
+13048,NA,236.2224,NA
+14059,NA,468.9604,NA
+13120,NA,631.3436,65
+13017,NA,429.2744,NA
+13027,NA,643.4068,47
+12715,"Suspect related to Butyrylcarnitine - 30.00 eV (predicted molecular formula: C11H25N7O2) with delta m/z 56.062 (putative explanation: Diethylation, analogous to Dimethylation|Gly->Leu/Ile substitution; atomic difference: 4C,8H|4C,8H)",288.2175,126
+13102,NA,686.3863,63
+13104,NA,964.5345,6
+13109,NA,964.8681,NA
+13052,NA,434.9492,11
+13170,NA,592.8384,NA
+13073,NA,941.8764,NA
+13134,NA,767.1943,193
+13137,NA,720.6161,37
+13010,NA,1007.2207,6
+13078,NA,1078.6162,48
+13217,NA,503.6546,NA
+13142,NA,1151.1449,134
+14462,NA,784.7043,193
+13266,NA,1060.5905,NA
+13188,NA,1022.2568,193
+13176,NA,790.1152,NA
+13062,NA,719.4129,48
+13221,NA,784.9549,193
+13847,NA,540.3403,NA
+13311,NA,812.4502,NA
+13319,NA,816.9561,6
+13307,NA,812.6998,6
+13346,NA,1090.5912,NA
+13284,NA,742.7583,NA
+13369,NA,991.8604,6
+13286,NA,317.2076,17
+13317,NA,750.4194,48
+13303,NA,1083.2636,6
+13312,NA,1082.9294,6
+13101,NA,1078.1132,NA
+13281,NA,1114.1341,48
+13000,NA,950.5325,NA
+13394,NA,1087.9349,NA
+12931,NA,557.0129,NA
+13376,NA,815.9532,NA
+13345,NA,852.181,NA
+13353,NA,665.4201,47
+13244,NA,571.688,NA
+13292,NA,1031.3322,NA
+13381,NA,743.0923,48
+13385,NA,1153.2692,NA
+13416,NA,819.4619,37
+13550,NA,793.7463,NA
+13309,NA,1045.9352,193
+13415,NA,1153.6036,NA
+13375,NA,1087.6017,NA
+13431,NA,827.9161,NA
+13441,NA,1013.9266,NA
+13428,NA,803.4561,48
+13482,NA,825.467,12
+13405,NA,443.9483,11
+13487,NA,912.1616,NA
+13342,NA,852.5557,69
+13383,NA,1125.1262,48
+13380,NA,449.6247,11
+13140,NA,900.519,37
+13178,NA,1053.2626,NA
+13518,NA,805.9338,48
+13379,NA,911.8268,NA
+13513,NA,580.8204,65
+13021,NA,628.3835,NA
+13552,NA,847.4879,37
+13563,NA,678.1928,NA
+13561,NA,1124.5668,96
+13237,NA,577.3663,NA
+13510,NA,677.992,37
+13410,NA,518.33,NA
+13608,NA,574.8392,NA
+13642,NA,458.7855,65
+13516,NA,586.3634,NA
+13632,NA,601.0384,NA
+13641,NA,687.4338,47
+13584,"Candidate Tetrahydroxylated bile acid (delta mass 39.0099; sirius atomic difference: 2C, 1H, 1N; buddy atomic difference: 2C, 1H, 1N)",464.3003,11
+13644,NA,630.3383,167
+13651,NA,1259.6689,167
+13585,NA,458.6244,11
+15660,NA,1153.5923,NA
+13794,NA,533.0055,NA
+13445,NA,794.9451,48
+13858,NA,821.9399,NA
+13666,NA,551.801,67
+13560,NA,861.4938,37
+13607,NA,861.744,37
+13821,NA,1207.689,NA
+13367,NA,855.4852,170
+13643,NA,562.7928,NA
+13834,NA,973.8727,NA
+13854,NA,736.0993,134
+13850,NA,641.3287,115
+14095,NA,687.8872,65
+13999,NA,822.0674,12
+13887,NA,794.4457,6
+14178,NA,652.3723,67
+13940,NA,709.4467,47
+13896,NA,776.4492,NA
+13814,NA,737.4464,50
+13922,NA,840.9711,6
+13955,NA,935.789,37
+13976,NA,547.6807,NA
+13688,NA,786.2495,37
+13427,NA,1049.0856,NA
+13816,NA,1058.926,6
+13978,NA,1120.9583,6
+13882,NA,893.531,170
+14637,NA,840.7201,6
+13964,NA,935.5382,37
+13959,NA,845.2271,6
+13930,NA,844.9765,6
+14032,NA,771.45,NA
+13979,NA,1120.6243,6
+13831,NA,918.2811,NA
+13668,NA,1102.5938,296
+13902,NA,1035.2615,NA
+14034,NA,812.9751,37
+13835,NA,478.9756,11
+14055,NA,719.4088,308
+13988,NA,918.0298,37
+15073,NA,592.8422,65
+14010,NA,899.8355,NA
+14060,NA,487.9755,11
+14044,NA,719.0745,308
+13998,NA,988.2265,NA
+14116,NA,752.7489,323
+13948,NA,1083.9637,NA
+14077,NA,822.2678,12
+14001,NA,1083.6291,193
+14062,NA,790.4579,NA
+14243,NA,685.2245,12
+14139,NA,815.2136,37
+14102,NA,493.651,11
+14245,NA,508.3262,11
+14305,NA,891.5344,NA
+14303,NA,753.4732,47
+14287,NA,855.8271,170
+14302,NA,731.4593,47
+15037,NA,748.4351,NA
+14111,NA,1017.2404,NA
+14358,NA,711.4128,244
+13465,NA,1028.0615,50
+14357,NA,970.8929,NA
+14519,NA,1181.0156,NA
+14397,NA,502.6516,11
+14014,NA,562.3563,NA
+14365,NA,850.1519,170
+14923,NA,858.1609,170
+14427,NA,850.4859,NA
+14020,NA,1013.6012,NA
+14122,NA,815.4638,37
+16684,NA,922.0054,236
+14247,NA,1125.2965,NA
+14559,NA,964.3104,37
+14426,NA,1285.0802,37
+14566,NA,850.4838,306
+14450,NA,964.0604,37
+14506,NA,308.2226,NA
+14629,NA,775.4855,47
+14249,NA,978.0429,NA
+14548,NA,918.7661,NA
+14561,NA,747.4172,323
+14487,NA,1006.5758,253
+14636,NA,1012.2489,253
+14554,NA,923.272,NA
+14579,NA,747.0828,323
+14029,NA,473.2997,11
+14463,"Candidate Trihydroxylated bile acid (delta mass 113.7082; sirius atomic difference: -14C, -19H, 13O, 3P)",523.0017,11
+14617,NA,919.0162,6
+14678,NA,1158.6538,6
+14889,NA,919.0179,53
+14618,NA,808.4249,NA
+14679,NA,869.2417,6
+15599,NA,771.9382,8
+14723,NA,1158.3199,6
+15649,NA,744.4286,65
+14726,NA,886.7508,NA
+14690,NA,873.4981,6
+14716,NA,868.9911,6
+14321,NA,886.0147,NA
+14516,NA,773.9332,NA
+14742,NA,797.4974,47
+14489,NA,982.8959,253
+14711,NA,873.2474,6
+14681,NA,360.2753,NA
+14836,NA,552.3527,11
+14497,NA,969.3049,37
+14818,NA,570.8621,65
+14686,Candidate Trihydroxylated bile acid (delta mass 128.3833),537.6771,11
+14837,Suspect related to Massbank:RP025302 Octanoyl-L-Carnitine|L-Octanoylcarnitine|(3R)-3-octanoyloxy-4-(trimethylazaniumyl)butanoate (predicted molecular formula: C16H29NO4) with delta m/z 12.0 (putative explanation: formaldehyde adduct|methylation and reduction|unspecified; atomic difference: 1C|1C|1C),300.2173,7
+14127,NA,1086.616,NA
+14627,NA,532.0007,47
+13747,NA,965.5554,NA
+14778,NA,1182.332,154
+13610,NA,766.4401,NA
+14822,NA,552.6869,43
+14764,NA,887.0009,6
+16050,NA,1078.1134,NA
+14248,NA,977.5404,319
+14880,NA,850.8318,170
+15007,NA,819.5112,47
+14917,NA,1275.7432,NA
+14814,NA,891.2579,6
+14875,NA,827.1535,170
+14924,NA,567.0283,11
+14795,NA,1181.9983,154
+15452,NA,964.5274,306
+14430,NA,1143.6576,305
+15021,Spectral Match to Chlorhexidine from NIST14,505.2108,NA
+14868,NA,253.1082,161
+15114,NA,841.5255,47
+14913,NA,1228.9934,NA
+14968,NA,695.4034,NA
+14958,NA,943.783,NA
+15313,NA,992.5819,NA
+15020,NA,1043.5947,NA
+14812,NA,891.0076,NA
+15052,NA,739.9226,244
+14982,NA,1225.0181,NA
+15072,NA,581.8523,NA
+15075,NA,603.8344,NA
+15082,NA,1140.7154,65
+15104,NA,581.7036,11
+15487,NA,974.544,170
+15222,NA,561.3524,47
+15035,NA,992.3309,37
+15116,NA,582.0379,232
+15124,NA,685.3851,65
+15538,NA,929.4936,96
+15285,NA,947.5186,NA
+14879,NA,972.5535,NA
+15229,"Candidate Trihydroxylated bile acid (delta mass 187.083; sirius atomic difference: 8C, 13H, 1N, 4O; buddy atomic difference: 8C, 13H, 1N, 4O)",596.3786,11
+14929,NA,964.2204,128
+15251,NA,637.3617,65
+15256,NA,170.0479,NA
+15257,NA,177.1021,NA
+15219,NA,1161.9942,NA
+15272,NA,700.4111,NA
+15067,NA,940.5416,128
+13532,NA,946.5461,214
+15275,NA,968.297,NA
+15264,NA,611.0545,11
+15314,NA,967.7954,6
+15383,NA,972.0522,6
+15312,NA,1043.7942,NA
+15659,NA,1131.6116,167
+15646,NA,625.3352,67
+15351,NA,972.3029,6
+15563,NA,965.0405,37
+15295,NA,989.5719,NA
+15379,NA,462.7991,11
+15227,NA,1266.6883,NA
+15504,NA,625.7296,11
+15374,NA,1290.3912,NA
+15187,NA,958.05,287
+15417,NA,690.8444,320
+15421,NA,787.8792,53
+15445,NA,1358.7005,377
+16013,NA,1072.008,66
+15500,NA,474.0567,11
+15682,NA,485.0632,43
+15484,NA,885.5507,47
+15503,"Massbank:AU247106 Hexa(methoxymethyl)melamine|2-N,2-N,4-N,4-N,6-N,6-N-hexakis(methoxymethyl)-1,3,5-triazine-2,4,6-triamine",391.2309,80
+15480,"Suspect related to Massbank:AU247103 Hexa(methoxymethyl)melamine|2-N,2-N,4-N,4-N,6-N,6-N-hexakis(methoxymethyl)-1,3,5-triazine-2,4,6-triamine (predicted molecular formula: C11H30N6O5S) with delta m/z -32.018 (putative explanation: unspecified; atomic difference: unspecified)",359.2046,80
+15521,NA,755.4194,65
+15524,NA,849.9377,NA
+14476,NA,1101.8748,NA
+18392,NA,734.4078,65
+15648,NA,636.3259,NA
+16143,NA,806.4607,153
+15550,NA,484.8129,11
+15467,NA,986.0561,319
+15669,NA,734.0729,65
+15370,NA,1101.1062,170
+15488,NA,917.7668,NA
+15610,NA,1049.3475,NA
+15725,NA,985.8056,6
+15642,NA,577.2994,115
+15650,NA,732.9147,NA
+15703,NA,990.0623,6
+15910,NA,655.4152,11
+15371,NA,985.5548,6
+15400,NA,1049.8469,NA
+15685,NA,679.8545,320
+15711,NA,989.8118,6
+15736,NA,495.819,11
+14755,NA,997.8234,37
+14881,NA,1013.5595,NA
+15595,NA,997.3182,37
+15695,NA,506.8248,11
+15394,NA,965.292,NA
+15665,NA,1027.5714,NA
+15784,NA,935.7762,6
+17097,NA,992.5632,6
+14724,NA,1027.5807,12
+15841,NA,992.8138,6
+15691,NA,997.0679,6
+15805,NA,993.0641,NA
+15554,NA,935.5263,NA
+15699,NA,669.7553,NA
+15911,NA,517.8314,11
+15751,NA,997.3199,NA
+15905,NA,281.1827,NA
+16042,NA,1081.8618,NA
+15994,NA,783.43,65
+15845,NA,633.3297,65
+16045,NA,874.1796,NA
+15909,Candidate Trihydroxylated bile acid (delta mass 119.5451),528.8383,11
+16018,NA,529.0892,NA
+14925,NA,1014.569,48
+14688,NA,958.0271,48
+15947,NA,358.2594,NA
+14947,NA,982.9691,37
+16142,NA,715.373,NA
+15954,NA,1081.6112,NA
+16150,NA,1407.7578,96
+16156,NA,704.3826,96
+18183,NA,1014.5793,6
+18240,NA,1010.3227,6
+18768,NA,1010.5727,6
+16115,NA,1157.4647,85
+16309,NA,477.2998,NA
+16267,NA,1015.0797,6
+16407,NA,540.0961,11
+16209,NA,1014.8296,6
+16071,NA,1021.5701,6
+16163,NA,1347.0947,286
+15696,NA,640.4044,11
+16244,NA,964.7203,85
+16269,NA,757.9329,NA
+16459,NA,562.11,NA
+16238,NA,551.1029,11
+16285,NA,967.56,85
+16210,NA,302.233,126
+16434,NA,1115.2373,NA
+14971,NA,1042.6006,NA
+17076,NA,1185.9876,NA
+16343,NA,1112.231,NA
+16136,NA,1077.3565,6
+16436,NA,1115.6362,NA
+16472,NA,1115.4368,66
+16424,NA,573.1161,NA
+15668,NA,819.1404,37
+16838,NA,627.4038,65
+16095,NA,1051.1021,287
+16505,NA,550.8515,232
+15640,NA,566.3102,167
+15444,NA,1157.4015,NA
+15239,NA,1176.667,NA
+16839,NA,684.4252,65
+16439,NA,926.861,66
+16553,NA,913.5258,65
+17057,NA,693.9045,NA
+16302,NA,1446.5813,NA
+16226,NA,617.1423,118
+16937,NA,1102.6239,53
+16038,NA,1319.7468,NA
+16377,NA,926.6942,53
+16339,NA,878.4749,127
+16786,NA,225.0662,NA
+16687,NA,772.1022,65
+16868,NA,946.0439,66
+17675,NA,1100.1208,NA
+15976,NA,1097.6258,NA
+15054,NA,943.5356,NA
+16740,NA,1003.5305,96
+16858,NA,388.2158,9
+17126,NA,743.6658,NA
+16873,NA,946.7064,NA
+16336,NA,1050.9356,48
+18516,NA,926.8597,18
+17564,NA,946.2098,66
+16567,NA,976.5535,NA
+16882,NA,1131.6461,66
+16824,NA,1414.3046,18
+16920,NA,1135.4507,66
+16874,NA,946.3768,66
+16952,NA,943.5385,66
+16530,NA,1420.0478,NA
+19441,NA,1135.0512,66
+16953,NA,1131.8459,66
+16265,NA,1072.6066,93
+19239,NA,1132.0455,66
+16890,NA,1135.251,66
+17066,NA,1184.6899,NA
+16615,NA,1140.2405,18
+16979,NA,975.0193,96
+18453,NA,935.5236,162
+16808,NA,1136.6425,127
+17443,NA,1318.9487,60
+17108,NA,267.1796,NA
+17110,NA,821.1247,65
+17367,Putative Lys-C10:1,299.1979,17
+17441,NA,944.97,60
+16337,NA,1056.2778,48
+18894,NA,942.5387,60
+17697,NA,1031.1621,59
+17129,NA,796.7033,113
+17203,NA,745.8224,NA
+16894,NA,884.8344,65
+17133,NA,1070.4796,93
+18243,NA,926.692,53
+17524,NA,942.6815,60
+17504,NA,942.2527,60
+17560,NA,1102.1306,60
+17491,NA,1031.016,59
+17919,NA,926.5252,53
+17941,NA,1099.9618,NA
+16025,NA,1049.5985,NA
+17197,NA,576.5679,118
+17307,NA,602.9834,118
+18571,NA,1099.2926,NA
+17891,NA,1028.4439,59
+16951,NA,1160.8679,85
+17402,NA,1099.6283,60
+17604,NA,942.3955,60
+17467,NA,933.8562,65
+18139,NA,1047.3149,59
+16949,NA,1176.1791,NA
+17397,"Candidate Trihydroxylated bile acid (delta mass 124.03; sirius atomic difference: 2C, 8H, 2N, 2O, 1S; buddy atomic difference: 11C, 4N, -4O; spectral library match to CCMSLIB00006680127, TAUROCHOLIC ACID)",533.3262,NA
+17531,NA,331.2235,17
+17448,NA,948.8549,127
+17547,NA,638.2041,NA
+17534,NA,1063.5955,NA
+17808,NA,1028.7294,NA
+17193,NA,1102.2974,NA
+17550,"Suspect related to Massbank: Myristamidopropyl betaine|carboxymethyl-dimethyl-[3-(tetradecanoylamino)propyl]azanium (predicted molecular formula: unknown) with delta m/z -56.062 (putative explanation: Dealkylation|Leu/Ile->Gly substitution; atomic difference: -4C,-8H|-4C,-8H)",315.2649,40
+17520,NA,970.5685,NA
+17396,NA,1319.1477,60
+17084,NA,991.2202,113
+17563,NA,337.2469,NA
+17963,NA,1032.5776,172
+17400,NA,887.1588,NA
+17459,NA,948.5207,127
+18238,NA,1035.5895,NA
+17533,NA,557.023,118
+17720,NA,1028.8727,59
+18055,NA,932.2752,113
+16986,NA,1242.3645,113
+17813,NA,916.6522,59
+19140,NA,1047.5997,59
+17123,NA,1003.6543,NA
+17573,NA,982.0576,189
+16144,NA,914.0261,153
+17897,NA,1218.8613,NA
+19087,NA,1135.6437,189
+17344,NA,906.9813,65
+17846,NA,427.2675,NA
+18521,NA,932.025,113
+17194,NA,1068.9351,113
+17685,NA,564.3609,118
+17991,NA,914.6493,59
+17529,NA,1063.2604,113
+18151,NA,914.3998,59
+18629,NA,914.5252,59
+17059,NA,916.1669,127
+19971,NA,1028.5843,49
+17958,NA,1302.4038,NA
+17831,NA,615.5574,NA
+17860,NA,878.7447,113
+17812,NA,355.2601,NA
+18037,NA,1171.3226,113
+18544,NA,1218.6933,191
+17828,"Suspect related to Massbank:AU247103 Hexa(methoxymethyl)melamine|2-N,2-N,4-N,4-N,6-N,6-N-hexakis(methoxymethyl)-1,3,5-triazine-2,4,6-triamine (predicted molecular formula: C18H28N8O4) with delta m/z 29.996 (putative explanation: Thr->Met substitution|unspecified; atomic difference: 1C,2H,-1O,1S|1N,1O)",421.2414,80
+17798,NA,878.4939,113
+19518,NA,914.2738,59
+17795,NA,319.1158,NA
+17671,NA,863.5041,65
+20277,NA,1221.6972,191
+18160,NA,1462.4291,NA
+18127,NA,1462.6293,NA
+17945,NA,909.7743,113
+18180,NA,1219.0271,NA
+18535,NA,1044.7397,59
+17898,NA,929.0225,NA
+18141,NA,1221.5316,NA
+18184,NA,1044.8824,59
+18221,NA,1045.0254,59
+18093,NA,1141.9791,113
+17095,NA,1199.8502,NA
+18014,NA,608.2209,NA
+17987,NA,1376.4333,172
+18039,NA,760.1263,65
+18145,NA,1211.1856,NA
+18971,NA,1143.1513,NA
+18303,NA,1047.1721,59
+18468,NA,825.2247,NA
+17189,NA,853.4768,NA
+17851,NA,929.8554,NA
+18309,NA,1098.9501,127
+18341,NA,905.5118,65
+18313,NA,1129.0165,93
+18402,NA,1141.2757,93
+18369,NA,1141.149,93
+18621,NA,794.4499,53
+19529,NA,365.1943,NA
+18376,"Suspect related to Massbank:RP025402 Tetradecanoyl-L-Carnitine|L-Myristoylcarnitine|(3R)-3-tetradecanoyloxy-4-(trimethylazaniumyl)butanoate (predicted molecular formula: C19H35NO5) with delta m/z -14.052 (putative explanation: Lys->Asn substitution; atomic difference: -2C,-6H,1O)",358.2593,328
+18393,NA,887.3795,59
+18456,NA,1099.2823,127
+18622,NA,924.0192,53
+18670,NA,923.8529,53
+18080,NA,1126.8904,NA
+18505,NA,1065.5953,53
+18053,NA,922.5286,65
+18518,"Suspect related to Massbank:RP025402 Tetradecanoyl-L-Carnitine|L-Myristoylcarnitine|(3R)-3-tetradecanoyloxy-4-(trimethylazaniumyl)butanoate (predicted molecular formula: C21H39NO5) with delta m/z 13.979 (putative explanation: Thr->Asp substitution|Tryptophan oxidation to oxolactone|aldehyde and ketone modifications|hydroxylation difference carboxylation|proline oxidation to pyroglutamic acid|Oxidation, epoxidation; atomic difference: -2H,1O|-2H,1O|-2H,1O|-2H,1O|-2H,1O|1O,-2H)",386.2908,7
+18563,Suspect related to Adipoyl-L-carnitine (predicted molecular formula: C17H31NO4) with delta m/z 24.072 (putative explanation: unspecified; atomic difference: unspecified),314.233,7
+17679,NA,1187.9217,114
+18594,NA,791.8745,53
+18525,NA,172.2061,NA
+19449,NA,1131.2414,49
+18323,NA,1196.9149,162
+18645,NA,266.1731,NA
+19177,NA,1117.878,NA
+18787,NA,323.1946,NA
+18189,NA,344.2333,NA
+18245,NA,966.5412,NA
+18841,NA,1055.2573,16
+18507,NA,991.5637,113
+18767,NA,452.1434,NA
+19250,NA,1033.7431,16
+18796,NA,836.077,113
+18821,Dereplicator+ Identification - Serratiochelin,430.1612,NA
+18748,NA,968.9393,NA
+18487,NA,1183.6645,114
+18567,NA,1061.5863,37
+19036,NA,960.0444,NA
+18797,NA,1134.6394,49
+18690,NA,935.7198,NA
+18562,NA,1169.1491,162
+18438,NA,886.4973,NA
+18988,NA,1132.9237,189
+18513,NA,1108.2214,53
+19034,NA,906.7654,NA
+19041,NA,969.1406,NA
+18847,NA,1058.0971,16
+19052,NA,275.0393,155
+19371,NA,359.148,68
+19137,NA,384.2751,92
+19149,NA,228.1265,359
+18719,NA,881.4975,NA
+18668,Gln-C10:0,301.2131,17
+19148,NA,552.3307,NA
+19829,NA,1031.5835,49
+19262,NA,1009.8564,59
+19629,NA,345.2381,17
+19202,NA,173.1175,NA
+18582,NA,1164.8905,NA
+19300,NA,376.1765,68
+19347,NA,416.2472,9
+19366,NA,277.2166,NA
+18089,NA,856.4867,113
+19231,NA,376.3064,NA
+19327,"Massbank:AU150006 Sertraline|(1S,4S)-4-(3,4-dichlorophenyl)-N-methyl-1,2,3,4-tetrahydronaphthalen-1-amine",306.0815,155
+19418,GLYCOCHOLATE - 30.0 eV,466.3168,NA
+19419,"Suspect related to Glycocholic acid (predicted molecular formula: C26H46N2O6) with delta m/z 17.027 (putative explanation: replacement of proton with ammonium ion; atomic difference: 3H,1N)",483.3438,NA
+19306,NA,397.1048,NA
+19297,NA,1122.1319,37
+19561,NA,1012.2846,59
+20429,NA,381.1314,NA
+18839,NA,1052.421,16
+19175,NA,1413.3848,59
+19039,NA,1023.9084,127
+19548,"Suspect related to NCGC00347704-02_C24H32O7_2H-Oxireno[1,10a]phenanthro[3,2-b]furan-10(11bH)-one, 5,7-bis(acetyloxy)-3,3a,4,5,6,7,7a,7b,8,8a-decahydro-4,4,7a,11-tetramethyl-, (1aS,3aR,5S,7S,7aR,7bS,8aR,11bR)- (predicted molecular formula: C12H19NO2) with delta m/z -223.072 (putative explanation: unspecified; atomic difference: unspecified)",192.1385,NA
+19579,NA,418.2636,9
+19677,NA,1174.663,NA
+20053,NA,404.2071,NA
+19731,NA,380.1953,NA
+19321,NA,1135.8884,37
+19878,NA,340.2021,NA
+19774,NA,202.2167,NA
+20244,NA,942.9519,49
+19383,NA,1180.6571,127
+19689,NA,1180.3207,127
+19762,NA,405.2467,NA
+20229,NA,253.1081,161
+18579,NA,1101.4175,NA
+20217,NA,313.2134,17
+20205,Suspect related to PALMITOYLCARNITINE (predicted molecular formula: C19H37NO5) with delta m/z -40.067 (putative explanation: unspecified; atomic difference: unspecified),360.2751,7
+19114,NA,1140.1452,37
+19841,NA,149.0236,251
+19522,NA,223.097,271
+19496,NA,200.2375,245
+20172,Suspect related to Spectral Match to Butyrylcarnitine from NIST14 (predicted molecular formula: unknown) with delta m/z 84.094 (putative explanation: unspecified; atomic difference: unspecified),316.2487,7
+19842,NA,267.061,NA
+20157,"Suspect related to Massbank:LU071403 N-[3-(Dimethylamino)propyl]dodecanamide (predicted molecular formula: C20H42N2O3) with delta m/z 74.035 (putative explanation: unspecified|unspecified; atomic difference: 1C,4H,3N,1O|3C,6H,2O)",359.3274,40
+20250,NA,971.3987,NA
+20586,NA,522.2876,NA
+19991,NA,1133.041,49
+20161,NA,287.2697,NA
+20592,"Suspect related to LAUROYLCARNITINE (predicted molecular formula: C18H33NO4) with delta m/z -16.031 (putative explanation: Leu/Ile->Pro substitution; atomic difference: -1C,-4H)",328.2487,7
+20466,"Suspect related to Spectral Match to Tauroursodeoxycholic acid from NIST14 (predicted molecular formula: C30H40N6O2) with delta m/z 17.027 (putative explanation: replacement of proton with ammonium ion; atomic difference: 3H,1N)",517.3313,259
+20729,NA,352.1996,NA
+20328,NA,550.3154,34
+20518,NA,1030.0398,49
+20343,NA,313.1013,NA
+20409,NA,377.232,NA
+20377,NA,442.2626,NA
+20528,NA,372.275,NA
+20483,NA,1010.3221,NA
+20725,NA,330.2172,NA
+20561,NA,233.1128,NA
+20576,NA,256.1328,359
+20567,"Suspect related to tauroursodeoxycholic acid (predicted molecular formula: C26H47NO7S) with delta m/z 18.01 (putative explanation: Proline oxidation to 5-hydroxy-2-aminovaleric acid|water; atomic difference: 2H,1O|2H,1O)",500.3047,259
+20564,NA,410.2906,92
+20585,NA,162.074,NA
+20563,NA,345.2756,NA
+20633,NA,315.2284,17
+20539,NA,996.479,288
+20949,NA,1086.9782,288
+20816,NA,381.2517,NA
+21041,NA,374.2907,7
+21121,NA,412.3064,92
+20934,NA,285.2904,NA
+20794,NA,240.2325,358
+21069,Suspect related to Massbank:LU071403 N-[3-(Dimethylamino)propyl]dodecanamide (predicted molecular formula: C17H36N2O2) with delta m/z 15.995 (putative explanation: Ala->Ser substitution|Oxidation or Hydroxylation|Phe->Tyr substitution; atomic difference: 1O|1O|1O),301.2854,40
+21124,"Suspect related to sphingosin C16 (Artifact)-emf (predicted molecular formula: C18H39NO3) with delta m/z 44.026 (putative explanation: Ethanolation|Gly->Thr substitution|PEG repeat unit|unspecified; atomic difference: 2C,4H,1O|2C,4H,1O|2C,4H,1O|2H,3N)",318.3007,NA
+21192,NA,583.2558,NA
+19106,NA,313.2378,NA
+21205,Suspect related to sphingosin C16 (Artifact)-emf (predicted molecular formula: C16H35NO3) with delta m/z 15.995 (putative explanation: Ala->Ser substitution|Oxidation or Hydroxylation|Phe->Tyr substitution; atomic difference: 1O|1O|1O),290.2693,NA
+21287,NA,425.1573,NA
+21945,Suspect related to L-Arachidonoylcarnitine (predicted molecular formula: C21H39NO5) with delta m/z -62.052 (putative explanation: unspecified; atomic difference: unspecified),386.2907,328
+21781,"Suspect related to D-erythro-Sphinganine (predicted molecular formula: C18H37NO3) with delta m/z 13.979 (putative explanation: Thr->Asp substitution|Tryptophan oxidation to oxolactone|aldehyde and ketone modifications|hydroxylation difference carboxylation|proline oxidation to pyroglutamic acid|Oxidation, epoxidation; atomic difference: -2H,1O|-2H,1O|-2H,1O|-2H,1O|-2H,1O|1O,-2H)",316.2851,NA
+21553,NA,327.2295,17
+21561,"Suspect related to Spectral Match to Lauroyl L-carnitine from NIST14 (predicted molecular formula: C9H31N11O3) with delta m/z -2.007 (putative explanation: O isotope (reverse)|O18 Labeling (reverse); atomic difference: -(18)O|1O,-1O[18])",342.2643,7
+21707,NA,200.2375,NA
+21709,NA,445.2002,NA
+21813,NA,581.407,NA
+21823,NA,466.1762,150
+22016,"Suspect related to 2-((4R)-4-((3R,5R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid (predicted molecular formula: C26H43NO5) with delta m/z -49.982 (putative explanation: unspecified; atomic difference: unspecified)",450.3216,259
+21995,NA,283.0955,209
+22021,NA,438.3213,92
+22010,NA,331.1892,NA
+23238,"Suspect related to Stearamide (predicted molecular formula: unknown) with delta m/z 3.995 (putative explanation: Pro->Thr substitution|tryptophan oxidation to kynurenin|Oxidative cleavage; atomic difference: -1C,1O|-1C,1O|1O,-1C)",288.2901,190
+22161,NA,264.196,NA
+22222,NA,214.2531,NA
+22200,NA,387.3588,40
+22055,Suspect related to Spectral Match to Oleoyl L-carnitine from NIST14 (predicted molecular formula: C21H41NO5) with delta m/z -38.053 (putative explanation: unspecified; atomic difference: unspecified),388.3061,7
+22234,"Suspect related to Massbank:RP025402 Tetradecanoyl-L-Carnitine|L-Myristoylcarnitine|(3R)-3-tetradecanoyloxy-4-(trimethylazaniumyl)butanoate (predicted molecular formula: C19H37NO4) with delta m/z -28.031 (putative explanation: Desethylation, didemethylation, dealkylation|Met->Cys substitution|Val->Ala substitution; atomic difference: -2C,-4H|-2C,-4H|-2C,-4H)",344.2799,7
+23668,NA,230.2482,185
+22375,NA,459.4892,104
+22452,NA,416.9909,155
+22502,NA,440.3366,92
+23611,NA,324.2748,NA
+23379,NA,402.3219,7
+22743,NA,414.3217,74
+22379,NA,402.2855,NA
+23014,"Suspect related to Spectral Match to PAF C-16 from NIST14 (predicted molecular formula: C22H46NO7P) with delta m/z -56.062 (putative explanation: Dealkylation|Leu/Ile->Gly substitution; atomic difference: -4C,-8H|-4C,-8H)",468.309,34
+22667,NA,433.2738,262
+23076,NA,329.3169,40
+23084,"Suspect related to Spectral Match to Heptadecasphing-4-enine from NIST14 (predicted molecular formula: C21H42N2O3) with delta m/z 85.053 (putative explanation: Bu fragment of BuUrBu crosslinker|N-ethyl iodoacetamide-d0; atomic difference: 4C,7H,1N,1O|4C,7H,1N,1O)",371.3275,40
+23067,"Massbank:LU100204 2,2'-(Tetradecylimino)diethanol|Tetradecyldiethanolamine",302.3057,190
+22974,NA,268.2637,358
+23105,NA,416.182,362
+22953,NA,317.214,NA
+23093,"Suspect related to Massbank:RP025302 Octanoyl-L-Carnitine|L-Octanoylcarnitine|(3R)-3-octanoyloxy-4-(trimethylazaniumyl)butanoate (predicted molecular formula: C21H39NO4) with delta m/z 82.078 (putative explanation: unspecified; atomic difference: 6C,10H)",370.2958,7
+23078,NA,404.2191,36
+23234,PIPERINE,286.1443,238
+23288,NA,421.3178,NA
+24927,NA,299.2585,NA
+23417,NA,447.2889,NA
+23397,NA,336.2024,NA
+23971,"Suspect related to Decynediol, tetramethyl, di(2-hydroxyethyl) ether (predicted molecular formula: unknown) with delta m/z 44.026 (putative explanation: Ethanolation|Gly->Thr substitution|PEG repeat unit|unspecified; atomic difference: 2C,4H,1O|2C,4H,1O|2C,4H,1O|2H,3N)",376.3063,166
+23860,NA,235.1694,NA
+24078,"Suspect related to LAUROYLCARNITINE (predicted molecular formula: C20H39NO4) with delta m/z 14.016 (putative explanation: Asn->Gln substitution|Asp->Glu substitution|Gly->Ala substitution|Methylation|Ser->Thr substitution|Val->Leu/Ile substitution|chain elongation; atomic difference: 1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H)",358.2957,7
+24699,NA,230.2482,NA
+23646,NA,300.2901,NA
+23062,Suspect related to Spectral Match to Butyrylcarnitine from NIST14 (predicted molecular formula: unknown) with delta m/z 124.126 (putative explanation: unspecified; atomic difference: unspecified),356.28,7
+23690,Suspect related to Spectral Match to Lyso-PC(16:0) from NIST14 (predicted molecular formula: C24H48NO7P) with delta m/z -2.016 (putative explanation: 2-amino-3-oxo-butanoic_acid|Intact disulfide bridge|Val->Pro substitution; atomic difference: -2H|-2H|-2H),494.3249,34
+23739,NA,299.1755,NA
+23821,"Suspect related to NCGC00385123-01_C22H30O6_7b,9-Dihydroxy-3-(hydroxymethyl)-1,1,6,8-tetramethyl-5-oxo-1,1a,1b,4,4a,5,7a,7b,8,9-decahydro-9aH-cyclopropa[3,4]benzo[1,2-e]azulen-9a-yl acetate (predicted molecular formula: unknown) with delta m/z 14.016 (putative explanation: Asn->Gln substitution|Asp->Glu substitution|Gly->Ala substitution|Methylation|Ser->Thr substitution|Val->Leu/Ile substitution|chain elongation; atomic difference: 1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H)",446.2539,74
+23248,"Suspect related to NCGC00385123-01_C22H30O6_7b,9-Dihydroxy-3-(hydroxymethyl)-1,1,6,8-tetramethyl-5-oxo-1,1a,1b,4,4a,5,7a,7b,8,9-decahydro-9aH-cyclopropa[3,4]benzo[1,2-e]azulen-9a-yl acetate (predicted molecular formula: unknown) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H)",460.2698,74
+23858,NA,281.1387,263
+23813,NA,295.1177,NA
+23705,"Suspect related to Massbank:RP026103 1-palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine|1-palmitoyl-sn-glycero-3-phosphoethanolamine|2-azaniumylethyl [(2R)-3-hexadecanoyloxy-2-hydroxypropyl] phosphate (predicted molecular formula: C20H42NO7P) with delta m/z -14.016 (putative explanation: Ala->Gly substitution|Gln->Asn substitution|Glu->Asp substitution|Leu/Ile->Val substitution|Thr->Ser substitution; atomic difference: -1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H)",440.2778,9
+23743,NA,416.3378,74
+22711,NA,228.2689,302
+24071,NA,420.3325,166
+22668,NA,359.299,7
+24017,NA,270.3158,NA
+23806,"Suspect related to Massbank:LU100204 2,2'-(Tetradecylimino)diethanol|Tetradecyldiethanolamine (predicted molecular formula: C19H41NO2) with delta m/z 14.016 (putative explanation: Asn->Gln substitution|Asp->Glu substitution|Gly->Ala substitution|Methylation|Ser->Thr substitution|Val->Leu/Ile substitution|chain elongation; atomic difference: 1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H)",316.3214,190
+23906,NA,330.3006,NA
+24083,"Spectral Match to 2,4,6-Triallyloxy-1,3,5-triazine from NIST14",250.1189,NA
+24109,"Suspect related to Spectral Match to 9-Oxo-10E,12Z-octadecadienoic acid from NIST14 (predicted molecular formula: C12H20O3) with delta m/z -64.068 (putative explanation: unspecified; atomic difference: unspecified)",213.1489,9
+24086,NA,340.2015,NA
+23984,NA,374.3271,NA
+24065,NA,195.1381,NA
+23771,NA,313.1008,NA
+24054,"Suspect related to L-Arachidonoylcarnitine (predicted molecular formula: C23H41NO4) with delta m/z -52.03 (putative explanation: nan (reverse); atomic difference: -4C,-4H)",396.3117,7
+24244,NA,407.242,NA
+24976,"Suspect related to cis-10-Nonadecenoic acid (predicted molecular formula: C18H32O4) with delta m/z 15.958 (putative explanation: Leu/Ile->Glu substitution|Val->Asp substitution|Demethylation+carboxylation; atomic difference: -1C,-4H,2O|-1C,-4H,2O|2O,-1C,-4H)",277.2165,9
+24157,"Suspect related to Massbank:RP024902 Decanoyl-L-Carnitine|Decanoylcarnitine|3-decanoyloxy-4-(trimethylazaniumyl)butanoate (predicted molecular formula: C21H41NO4) with delta m/z 56.062 (putative explanation: Diethylation, analogous to Dimethylation|Gly->Leu/Ile substitution; atomic difference: 4C,8H|4C,8H)",372.3113,7
+23162,"Suspect related to N,N-Dimethyldodecylamine N-oxide (predicted molecular formula: C16H35NO) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H)",258.2795,185
+24253,NA,259.283,185
+23534,NA,518.3241,NA
+24893,"Suspect related to LAUROYLCARNITINE (predicted molecular formula: C22H41NO4) with delta m/z 40.031 (putative explanation: Gly->Pro substitution|Propionaldehyde +40|unspecified; atomic difference: 3C,4H|3C,4H|3C,4H)",384.3114,7
+25248,NA,340.3578,NA
+24599,NA,522.2846,9
+26289,"Suspect related to NCGC00385123-01_C22H30O6_7b,9-Dihydroxy-3-(hydroxymethyl)-1,1,6,8-tetramethyl-5-oxo-1,1a,1b,4,4a,5,7a,7b,8,9-decahydro-9aH-cyclopropa[3,4]benzo[1,2-e]azulen-9a-yl acetate (predicted molecular formula: unknown) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H)",460.2696,74
+24697,Spectral Match to Benzyldodecyldimethylammonium from NIST14,304.3004,NA
+24916,Suspect related to Spectral Match to Butyrylcarnitine from NIST14 (predicted molecular formula: unknown) with delta m/z 154.172 (putative explanation: D-enduracididine|capreomycidine|enduracididine; atomic difference: unspecified|unspecified|unspecified),386.327,7
+23570,NA,382.2954,7
+25990,NA,314.3058,224
+24952,NA,401.3378,NA
+25086,Suspect related to PALMITOYLCARNITINE (predicted molecular formula: C23H43NO4) with delta m/z -2.016 (putative explanation: 2-amino-3-oxo-butanoic_acid|Intact disulfide bridge|Val->Pro substitution; atomic difference: -2H|-2H|-2H),398.3271,7
+23926,NA,293.2113,NA
+25093,"Suspect related to Massbank:AU252306 Piperine|(2E,4E)-5-(1,3-benzodioxol-5-yl)-1-piperidin-1-ylpenta-2,4-dien-1-one (predicted molecular formula: C19H21NO3) with delta m/z 26.016 (putative explanation: Acetaldehyde +26|Ala->Pro substitution|unspecified; atomic difference: 2C,2H|2C,2H|2C,2H)",312.1601,238
+24834,NA,410.3269,7
+25490,NA,335.2204,NA
+25227,NA,487.3206,262
+25549,NA,344.2442,NA
+25355,NA,281.2954,NA
+25462,NA,323.1602,NA
+25453,"Suspect related to Massbank:RP025103 Oleoyl-L-Carnitine|(3R)-3-[(Z)-octadec-9-enoyl]oxy-4-(trimethylazaniumyl)butanoate (predicted molecular formula: C19H45N5O5) with delta m/z -2.007 (putative explanation: O isotope (reverse)|O18 Labeling (reverse); atomic difference: -(18)O|1O,-1O[18])",424.3423,7
+25397,"Suspect related to Massbank: Myristamidopropyl betaine|carboxymethyl-dimethyl-[3-(tetradecanoylamino)propyl]azanium (predicted molecular formula: unknown) with delta m/z 28.04 (putative explanation: Gln->Arg substitution; atomic difference: 1C,4H,2N,-1O)",399.3587,40
+24745,NA,370.2597,40
+25602,NA,238.9076,NA
+27334,NA,393.2865,NA
+25573,NA,359.2204,NA
+25666,NA,446.2294,NA
+25870,NA,474.2617,NA
+25768,NA,423.1738,NA
+26064,NA,449.3273,NA
+25819,NA,385.2362,NA
+25939,NA,356.3527,NA
+26080,NA,427.3146,NA
+27051,NA,460.2693,NA
+25889,NA,325.2376,NA
+26203,"Suspect related to Massbank:NA003095 (+)-Costunolide|Costunolide|(3aS,6E,10E,11aR)-6,10-dimethyl-3-methylidene-3a,4,5,8,9,11a-hexahydrocyclodeca[b]furan-2-one (predicted molecular formula: C15H22O) with delta m/z -13.981 (putative explanation: Asp->Thr substitution; atomic difference: 2H,-1O)",219.1747,NA
+26017,"Suspect related to LAUROYLCARNITINE (predicted molecular formula: C22H43O4) with delta m/z 28.04 (putative explanation: Gln->Arg substitution; atomic difference: 1C,4H,2N,-1O)",372.3113,7
+25329,NA,325.2014,NA
+26276,"Suspect related to Sorbitane Monooleate - Polysorbate 80 in-source fragment (predicted molecular formula: C23H47NO4) with delta m/z -26.015 (putative explanation: Alkyl loss (typically partial loss from ring)|Pro->Ala substitution; atomic difference: -2C,-2H|-2C,-2H)",402.3583,40
+26219,"Suspect related to Massbank: Myristamidopropyl betaine|carboxymethyl-dimethyl-[3-(tetradecanoylamino)propyl]azanium (predicted molecular formula: unknown) with delta m/z 54.034 (putative explanation: unspecified|3x water; atomic difference: 3C,4H,1N|H6,3O)",425.3745,40
+26137,NA,403.3618,40
+25530,NA,383.2912,65
+26607,Spectral Match to Palmitoylcarnitine from NIST14,400.3427,7
+26453,NA,401.346,7
+25612,NA,402.2391,36
+27161,NA,338.2694,NA
+26745,NA,616.4635,35
+26420,"Suspect related to Massbank:RP025402 Tetradecanoyl-L-Carnitine|L-Myristoylcarnitine|(3R)-3-tetradecanoyloxy-4-(trimethylazaniumyl)butanoate (predicted molecular formula: C20H41N7O2) with delta m/z 40.031 (putative explanation: Gly->Pro substitution|Propionaldehyde +40|unspecified; atomic difference: 3C,4H|3C,4H|3C,4H)",412.3428,7
+26458,Suspect related to 1-(1Z-Hexadecenyl)-sn-glycero-3-phosphocholine (predicted molecular formula: C24H52NO6P) with delta m/z 2.016 (putative explanation: Pro->Val substitution|reduction; atomic difference: 2H|2H),482.3608,34
+23710,"Suspect related to Spectral Match to Palmitoyl ethanolamide from NIST14 (predicted molecular formula: C18H39NO) with delta m/z -13.981 (putative explanation: Asp->Thr substitution; atomic difference: 2H,-1O)",286.3108,185
+26749,"Suspect related to NCGC00380283-01!4-[5-[[4-[5-[acetyl(hydroxy)amino]pentylamino]-4-oxobutanoyl]-hydroxyamino]pentylamino]-4-oxobutanoic acid (predicted molecular formula: unknown) with delta m/z 46.005 (putative explanation: formic acid adduct; atomic difference: 1C,2H,2O)",524.2977,9
+26530,NA,673.3778,NA
+28095,NA,486.2607,NA
+26565,NA,460.2779,NA
+26529,Suspect related to Rha-Rha-C10-C10 (M+H) (predicted molecular formula: C32H61NO13) with delta m/z 17.017 (putative explanation: unspecified; atomic difference: unspecified),668.4235,144
+26846,NA,321.2426,NA
+26733,Suspect related to 1-(1Z-Hexadecenyl)-sn-glycero-3-phosphocholine (predicted molecular formula: C25H48NO7P) with delta m/z 25.979 (putative explanation: unspecified; atomic difference: unspecified),506.3252,34
+26812,NA,528.4113,35
+26948,NA,638.1013,NA
+26062,NA,298.3473,NA
+26906,"Suspect related to Massbank:PR310844 LPC 18:2 (predicted molecular formula: C23H50N9O4P) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H)",548.3722,34
+26925,"Suspect related to Spectral Match to 13(S)-HODE methyl ester from NIST14 (predicted molecular formula: C18H32O3) with delta m/z -14.016 (putative explanation: Ala->Gly substitution|Gln->Asn substitution|Glu->Asp substitution|Leu/Ile->Val substitution|Thr->Ser substitution; atomic difference: -1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H)",279.2324,9
+26837,NA,484.3853,NA
+26983,NA,522.2385,NA
+26839,NA,367.2847,NA
+26933,NA,510.3557,NA
+27029,Spectral Match to Oleoyl L-carnitine from NIST14,426.3586,7
+28136,NA,496.3396,NA
+27112,NA,415.3616,7
+27026,Suspect related to Spectral Match to Butyrylcarnitine from NIST14 (predicted molecular formula: unknown) with delta m/z 182.204 (putative explanation: unspecified; atomic difference: unspecified),414.3583,7
+26861,NA,316.2852,NA
+27066,NA,438.358,NA
+26856,NA,440.359,35
+28034,NA,432.2381,NA
+26543,NA,574.315,NA
+26740,NA,416.255,NA
+26546,NA,342.2646,205
+27078,NA,151.1119,NA
+26216,NA,356.28,NA
+28787,NA,284.3316,NA
+27559,NA,359.2199,NA
+27346,NA,456.3348,NA
+27733,NA,258.2796,104
+27316,NA,608.4143,35
+27310,NA,579.0649,35
+29085,"Suspect related to Spectral Match to Lyso-PC(16:0) from NIST14 (predicted molecular formula: C26H54NO6P) with delta m/z 12.036 (putative explanation: Ser->Val substitution|Thr->Leu/Ile substitution; atomic difference: 2C,4H,-1O|2C,4H,-1O)",508.3764,34
+26603,NA,429.3767,40
+27307,NA,564.3881,35
+27399,NA,416.3737,40
+27329,NA,358.3684,89
+27455,NA,386.2908,NA
+27488,NA,793.5404,35
+27450,NA,339.2166,NA
+27486,NA,535.0383,35
+27638,NA,402.2392,36
+28287,NA,520.341,NA
+27630,NA,505.6869,35
+27479,NA,304.1914,NA
+27648,NA,440.4105,45
+27640,"Suspect related to Palmitic acid alkyne (predicted molecular formula: C12H20O2) with delta m/z -56.062 (putative explanation: Dealkylation|Leu/Ile->Gly substitution; atomic difference: -4C,-8H|-4C,-8H)",179.1433,NA
+28126,NA,384.3112,NA
+27590,NA,749.5137,35
+27591,NA,771.5271,35
+27588,NA,520.3629,35
+27619,NA,407.1956,NA
+27673,NA,388.2862,NA
+27846,NA,510.3631,9
+27759,NA,491.012,35
+27677,"Suspect related to TOP 8 Psoriasis feature - Unknown FeatureID=4262 (predicted molecular formula: C22H41N7OS) with delta m/z 14.016 (putative explanation: Asn->Gln substitution|Asp->Glu substitution|Gly->Ala substitution|Methylation|Ser->Thr substitution|Val->Leu/Ile substitution|chain elongation; atomic difference: 1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H)",452.3142,228
+27419,"Suspect related to Sorbitane Monostearate - Polysorbate 60 in-source fragment (predicted molecular formula: C25H49NO4) with delta m/z -2.007 (putative explanation: O isotope (reverse)|O18 Labeling (reverse); atomic difference: -(18)O|1O,-1O[18])",428.3741,40
+27756,NA,392.1737,202
+27766,NA,197.1903,NA
+28544,NA,328.2487,9
+27764,NA,705.4877,35
+27761,NA,727.5006,35
+27797,"Candidate Trihydroxylated bile acid (delta mass -38.0523; sirius atomic difference: -4C, -6H, 1O; buddy atomic difference: -4C, -6H, 1O)",371.2373,29
+27776,"Suspect related to Spectral Match to 13-Keto-9Z,11E-octadecadienoic acid from NIST14 (predicted molecular formula: C20H37NO3) with delta m/z 45.058 (putative explanation: unspecified; atomic difference: 2C,7H,1N)",340.2852,9
+27804,NA,476.3366,35
+28053,NA,296.2306,9
+27809,NA,301.2168,NA
+29200,NA,661.4609,35
+27907,NA,414.2279,NA
+27947,NA,694.4378,144
+27979,NA,325.228,177
+27945,NA,683.4746,35
+28601,NA,549.344,267
+28054,NA,360.2397,89
+28113,NA,639.4485,35
+28368,NA,595.422,35
+28121,NA,326.3786,NA
+28112,NA,320.2578,NA
+28190,NA,440.3745,7
+28110,"Suspect related to Massbank: Myristamidopropyl betaine|carboxymethyl-dimethyl-[3-(tetradecanoylamino)propyl]azanium (predicted molecular formula: unknown) with delta m/z 56.062 (putative explanation: Diethylation, analogous to Dimethylation|Gly->Leu/Ile substitution; atomic difference: 4C,8H|4C,8H)",427.3898,40
+29828,NA,617.4352,35
+28246,NA,573.4095,35
+28244,NA,449.3719,108
+28361,NA,551.3953,35
+28300,NA,542.4268,NA
+28352,NA,529.3828,35
+28341,NA,430.3896,40
+28357,"Candidate Trihydroxylated bile acid (delta mass 89.1088; sirius atomic difference: 2C, 11H, 5N, -1O; buddy atomic difference: 7C, 11H, 3N, -3O)",498.4006,35
+29027,"Suspect related to Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14 (predicted molecular formula: C24H50NO7P) with delta m/z -236.213 (putative explanation: palmitoleyl (reverse); atomic difference: -16C,-28H,-1O)",496.3399,34
+27870,NA,341.2081,205
+28583,NA,327.2336,9
+28422,NA,507.3695,35
+28770,"Suspect related to Massbank:RP025402 Tetradecanoyl-L-Carnitine|L-Myristoylcarnitine|(3R)-3-tetradecanoyloxy-4-(trimethylazaniumyl)butanoate (predicted molecular formula: C27H51NO4) with delta m/z 82.078 (putative explanation: unspecified; atomic difference: 6C,10H)",454.3903,7
+30099,NA,315.1917,224
+29741,NA,333.2045,NA
+28637,NA,460.2813,NA
+28551,"Suspect related to Rha-Rha-C10-C10 (M+H) (predicted molecular formula: C26H51NO9) with delta m/z -129.044 (putative explanation: Nmethylmaleimidehydrolysis (reverse)|Photo-induced Proline adduct (reverse)|monoglutamyl (reverse)|nan (reverse); atomic difference: -5C,-7H,-1N,-3O|-5C,-7H,-1N,-3O|-5C,-7H,-1N,-3O|-5C,-7H,-1N,-3O)",522.3633,144
+28537,NA,485.3574,35
+28759,NA,150.0549,NA
+28732,NA,257.1751,NA
+28716,NA,343.1674,36
+28639,NA,355.2838,NA
+28683,NA,463.3432,35
+28919,NA,371.1634,NA
+28863,NA,357.1477,36
+28827,NA,306.8951,NA
+28811,"Suspect related to Spectral Match to PAF C-16 from NIST14 (predicted molecular formula: C28H56NO7P) with delta m/z 26.016 (putative explanation: Acetaldehyde +26|Ala->Pro substitution|unspecified; atomic difference: 2C,2H|2C,2H|2C,2H)",550.3874,34
+28903,NA,353.1621,NA
+30485,NA,371.2915,NA
+29068,NA,820.6,35
+28962,NA,409.1945,NA
+28951,NA,399.1793,NA
+29007,NA,342.2103,89
+28924,NA,441.3301,35
+28911,NA,580.5307,9
+29658,NA,603.4206,35
+30689,NA,295.2272,9
+29168,NA,776.5712,35
+29141,NA,685.4995,NA
+29143,NA,360.2169,89
+29339,NA,211.2059,9
+29809,NA,361.2377,89
+27968,"Suspect related to Spectral Match to 1-(9Z-Octadecenoyl)-2-tetradecanoyl-sn-glycero-3-phosphocholine from NIST14 (predicted molecular formula: C37H75N2O6P) with delta m/z -57.01 (putative explanation: nan (reverse); atomic difference: -1C,-1H,-2N,-1O)",675.5446,34
+29320,NA,635.4676,NA
+29512,NA,228.2326,302
+29531,NA,398.2206,NA
+29325,NA,349.2743,NA
+30532,NA,321.2429,9
+29496,NA,645.5031,NA
+29373,NA,688.5216,35
+30613,"Suspect related to Curcumol (predicted molecular formula: C18H30O3) with delta m/z 58.042 (putative explanation: unspecified|PPG repeat unit|Reduced acrolein addition +58; atomic difference: 1C,4H,3N|3C,6H,1O|3C,6H,1O)",277.2166,NA
+28552,NA,527.3186,NA
+31630,NA,345.2409,NA
+29344,NA,644.4948,35
+29722,NA,714.3756,NA
+29677,PS(18:0/0:0); [M+H]+ C24H49N1O9P1,526.3152,9
+29655,NA,588.4084,NA
+29708,NA,640.3503,NA
+29726,NA,470.3509,NA
+30113,NA,572.4197,NA
+30633,NA,383.2915,NA
+29854,NA,305.248,NA
+29824,NA,573.7328,35
+30186,NA,500.3568,35
+29821,NA,559.0577,35
+29817,NA,544.3827,35
+30838,NA,317.2094,NA
+30380,NA,340.2852,NA
+30079,NA,448.3379,NA
+28929,NA,412.343,NA
+30028,NA,553.3353,NA
+30102,NA,307.227,139
+30082,NA,388.2703,9
+30105,NA,369.2759,36
+30012,NA,529.7071,35
+29095,NA,411.3224,NA
+29652,NA,339.2537,NA
+30130,NA,533.3447,NA
+30913,NA,524.3714,35
+30189,NA,515.031,35
+30192,NA,741.5168,35
+30194,NA,763.5294,NA
+30813,NA,343.2233,89
+30215,"Suspect related to 3,6,9,12,15-Pentaoxaheptacosan-1-ol, hydrogen sulfate (predicted molecular formula: unknown) with delta m/z 132.078 (putative explanation: PEG repeat unit x3; atomic difference: 6C,12H,3O)",636.3997,35
+30219,"Suspect related to 3,6,9,12,15-Pentaoxaheptacosan-1-ol, hydrogen sulfate (predicted molecular formula: unknown) with delta m/z 88.052 (putative explanation: PEG repeat unit x2; atomic difference: 4C,8H,2O)",592.3733,35
+30558,NA,538.52,NA
+30343,NA,697.4902,35
+30444,NA,719.5034,35
+30338,NA,425.2666,NA
+30516,NA,462.3532,NA
+30550,NA,342.2651,89
+30027,NA,548.3804,144
+31725,NA,416.255,36
+30645,Suspect related to Aleuritic acid (predicted molecular formula: C16H35N4O2) with delta m/z 11.052 (putative explanation: unspecified; atomic difference: unspecified),280.2638,9
+30553,NA,675.4768,35
+30667,NA,300.2902,NA
+30676,NA,530.3478,315
+30589,NA,507.272,NA
+30678,NA,653.4641,35
+30843,NA,609.4371,35
+30707,"Suspect related to Spectral Match to cis-4,7,10,13,16,19-Docosahexaenoic acid from NIST14 (predicted molecular formula: C20H30O2) with delta m/z -26.015 (putative explanation: Alkyl loss (typically partial loss from ring)|Pro->Ala substitution; atomic difference: -2C,-2H|-2C,-2H)",303.2324,9
+30806,NA,359.152,NA
+32263,NA,565.4117,35
+30631,NA,528.3922,35
+30839,NA,456.4419,NA
+30694,NA,631.4513,35
+30861,NA,386.4002,NA
+30835,NA,587.4248,35
+30922,NA,621.3655,NA
+30163,NA,680.4248,35
+31023,NA,455.4099,9
+31003,Suspect related to 1-Monolinoleoyl-rac-glycerol (predicted molecular formula: C19H41N4O4) with delta m/z 35.037 (putative explanation: unspecified; atomic difference: unspecified),372.3114,9
+31205,NA,538.3855,NA
+31182,NA,543.3985,35
+30776,NA,484.366,35
+31083,NA,466.3439,21
+31104,NA,335.152,NA
+31175,"Suspect related to Spectral Match to cis-5,8,11,14-Eicosatetraenoic acid from NIST14 (predicted molecular formula: C19H32O3) with delta m/z 3.995 (putative explanation: Pro->Thr substitution|tryptophan oxidation to kynurenin|Oxidative cleavage; atomic difference: -1C,1O|-1C,1O|1O,-1C)",309.2427,9
+30720,NA,727.5715,32
+30205,NA,521.3855,35
+30527,Massbank:LU015303 1-Dodecyl-2-pyrrolidinone|1-dodecylpyrrolidin-2-one,254.2482,NA
+30994,NA,326.3058,NA
+31235,NA,403.1396,NA
+31252,NA,371.1633,NA
+30530,Suspect related to Spectral Match to 1-Octadecanoyl-2-octadecenoyl-sn-glycero-3-phosphocholine from NIST14 (predicted molecular formula: C37H89N12O5P) with delta m/z 25.069 (putative explanation: unspecified; atomic difference: unspecified),835.6679,32
+31372,NA,314.3058,NA
+31905,"Suspect related to Spectral Match to 13-Keto-9Z,11E-octadecadienoic acid from NIST14 (predicted molecular formula: C20H34O3) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H)",323.2585,9
+29189,NA,583.4704,NA
+31785,NA,677.56,34
+31455,NA,619.4815,NA
+30780,NA,506.38,35
+32045,NA,835.6672,NA
+31559,NA,367.19,NA
+31589,NA,398.2334,202
+31537,NA,691.5766,NA
+31128,NA,477.3587,35
+32342,NA,326.3785,NA
+31655,NA,499.3744,35
+31708,NA,385.1674,149
+31434,NA,477.3919,NA
+31872,NA,423.31,268
+31906,NA,837.6817,NA
+29883,NA,140.0683,NA
+31330,NA,578.5151,9
+31755,NA,702.4941,NA
+31866,NA,311.1856,149
+31852,NA,880.638,15
+31909,NA,430.3173,273
+31887,NA,407.241,NA
+32889,NA,416.2554,36
+31968,NA,352.1786,NA
+32031,NA,361.1676,NA
+32063,Suspect related to .gamma.-Dodecalactone (predicted molecular formula: C20H36O4) with delta m/z 142.099 (putative explanation: unspecified; atomic difference: unspecified),305.2479,9
+32070,NA,646.417,NA
+32227,NA,689.5602,34
+32091,NA,682.364,NA
+31291,NA,599.4644,NA
+32805,NA,557.4147,35
+32272,NA,368.28,248
+32443,NA,349.2734,9
+32349,NA,337.1674,NA
+32427,NA,339.1625,NA
+31312,NA,535.399,NA
+32961,NA,645.4689,35
+32430,NA,310.238,NA
+33027,NA,365.2805,NA
+32466,NA,413.3243,NA
+33492,NA,542.407,35
+32942,NA,293.2115,NA
+32839,NA,426.322,248
+32595,NA,350.2334,NA
+32583,NA,539.0502,NA
+32585,NA,777.5449,35
+32665,NA,468.359,21
+33098,NA,601.4402,35
+32823,NA,746.617,15
+32703,NA,755.5321,35
+32651,"Suspect related to Monolaurin (predicted molecular formula: C16H32O2) with delta m/z -17.974 (putative explanation: Asp->Pro substitution; atomic difference: 1C,2H,-2O)",239.2372,9
+32893,NA,667.478,35
+32842,NA,580.5307,9
+33128,NA,484.3647,248
+33242,NA,444.3329,9
+32330,NA,301.1452,NA
+33215,"Suspect related to 1-Palmitoyl-2-linoleoyl-rac-glycerol (predicted molecular formula: unknown) with delta m/z -30.01 (putative explanation: Decarboxylation|Demethoxylation|Proline oxidation to pyrrolidinone|Ser->Gly substitution|Thr->Ala substitution; atomic difference: -1C,-2H,-1O|-1C,-2H,-1O|-1C,-2H,-1O|-1C,-2H,-1O|-1C,-2H,-1O)",307.2635,9
+33072,NA,623.4539,35
+32624,NA,598.4913,35
+32897,NA,733.519,35
+33173,NA,579.4274,35
+32940,VITAMIN K1 CollisionEnergy:102040,226.1804,NA
+33033,NA,423.311,268
+32998,NA,516.3536,NA
+33115,NA,832.6371,35
+33127,"Suspect related to OMEGA-HYDROXYDODECANOATE (predicted molecular formula: C13H27NO4) with delta m/z 45.021 (putative explanation: unspecified; atomic difference: 1C,3H,1N,1O)",244.191,NA
+32677,NA,498.3824,NA
+33370,NA,920.6877,35
+33097,NA,603.9189,NA
+33114,"Suspect related to 8,11-Tridecadienoic acid, 13-(3-pentyl-2-oxiranyl)-, (8Z,11Z)- (predicted molecular formula: C22H38O3) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H)",333.2792,9
+32778,NA,722.5551,NA
+33237,Suspect related to Spectral Match to 1-Oleoyl-2-acetyl-sn-glycerol from NIST14 (predicted molecular formula: C18H34O3) with delta m/z -100.052 (putative explanation: unspecified; atomic difference: unspecified),281.2479,9
+32932,"Suspect related to C16 Lactosyl Ceramide (d18:1/16:0) (predicted molecular formula: C40H77NO8) with delta m/z -162.052 (putative explanation: Glucuronidation (reverse)|Hexose (reverse); atomic difference: -6C,-10H,-5O|-6C,-10H,-5O)",700.5733,321
+33207,NA,558.4006,42
+33345,NA,482.383,NA
+32361,NA,340.285,NA
+33322,NA,358.2958,NA
+33324,Suspect related to Spectral Match to Palmitoylcarnitine from NIST14 (predicted molecular formula: C22H42N2O2) with delta m/z -33.01 (putative explanation: unspecified; atomic difference: unspecified),367.3331,NA
+33306,NA,337.2978,346
+33340,NA,312.2537,325
+33110,Contaminants septum vial Thermo C4000-53 and C4000-54 serie,758.2222,195
+33636,NA,612.5061,35
+33504,NA,744.5855,35
+33384,NA,311.2221,325
+33400,NA,403.2807,NA
+33431,NA,540.5354,NA
+33453,NA,472.3641,9
+33418,NA,656.5321,200
+33557,NA,568.479,35
+33487,NA,568.5671,NA
+33533,NA,902.3951,NA
+33552,NA,727.5107,200
+33890,"Suspect related to Massbank:EQ331603 Linoleic acid|(9Z,12Z)-octadeca-9,12-dienoic acid (predicted molecular formula: C20H36O2) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H)",309.2792,9
+33683,NA,646.4529,NA
+33664,NA,484.4003,29
+33724,NA,718.5832,15
+33535,Spectral Match to Zymosterol from NIST14,367.3364,9
+33787,NA,739.511,NA
+33422,Suspect related to Contaminant vial septum ThermoFisher C5000-44B (predicted molecular formula: unknown) with delta m/z 56.007 (putative explanation: unspecified; atomic difference: unspecified),832.2412,195
+33923,"Suspect related to Massbank:AU406506 3,6,9,12-Tetraoxatetracosan-1-ol|Tetraethylene glycol monododecyl ether|2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethanol (predicted molecular formula: C24H50O5) with delta m/z 73.089 (putative explanation: unspecified; atomic difference: 4C,11H,1N)",436.4003,35
+33776,NA,480.4263,35
+33853,NA,310.3106,NA
+34669,NA,658.4532,200
+34409,"Suspect related to Methyl 12-hydroxystearate (predicted molecular formula: C18H36O3) with delta m/z -14.016 (putative explanation: Ala->Gly substitution|Gln->Asn substitution|Glu->Asp substitution|Leu/Ile->Val substitution|Thr->Ser substitution; atomic difference: -1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H)",283.2635,9
+33848,NA,686.4843,200
+34275,NA,816.6409,NA
+34231,NA,571.4291,35
+34021,NA,934.6409,NA
+34323,NA,549.4168,35
+34162,NA,855.5937,NA
+34463,NA,505.3905,35
+34465,NA,948.7205,35
+34271,"Suspect related to 18:1(2S-OH) Ceramide (predicted molecular formula: C41H75N5O4) with delta m/z 162.053 (putative explanation: Glucuronidation|Hexose; atomic difference: 6C,10H,5O|6C,10H,5O)",702.588,15
+34406,NA,728.5882,35
+34232,NA,593.443,35
+34235,NA,659.482,35
+34238,NA,704.0102,35
+34219,"Suspect related to Methyl 12-hydroxystearate (predicted molecular formula: C20H40O3) with delta m/z 14.016 (putative explanation: Asn->Gln substitution|Asp->Glu substitution|Gly->Ala substitution|Methylation|Ser->Thr substitution|Val->Leu/Ile substitution|chain elongation; atomic difference: 1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H|1C,2H)",311.2949,9
+34233,NA,615.4563,35
+33996,NA,416.3649,NA
+34593,NA,772.6147,NA
+34236,NA,681.4945,35
+34389,NA,527.4036,35
+34234,NA,637.4697,35
+34592,"Suspect related to N-[1,3-dihydroxyoctadec-4-en-2-yl]hexadecanamide (predicted molecular formula: unknown) with delta m/z 18.01 (putative explanation: Proline oxidation to 5-hydroxy-2-aminovaleric acid|water; atomic difference: 2H,1O|2H,1O)",538.5198,321
+34285,NA,774.5362,NA
+34405,NA,684.5623,35
+34481,NA,512.4314,29
+34412,"Suspect related to N-[1,3-dihydroxyoctadec-4-en-2-yl]tetracos-15-enamide (predicted molecular formula: C32H65NO4) with delta m/z -120.13 (putative explanation: unspecified; atomic difference: unspecified)",510.4891,321
+34504,NA,446.3844,138
+34838,"Suspect related to cis-9-Hexadecenoic acid (predicted molecular formula: C18H34O2) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H)",283.2635,9
+34648,NA,640.5371,35
+34594,NA,786.5368,279
+34613,NA,814.5679,279
+34562,"Suspect related to (Z)-6-Octadecenoic acid (predicted molecular formula: C19H38O3) with delta m/z 32.026 (putative explanation: unspecified; atomic difference: 1C,4H,1O)",297.2792,9
+34605,NA,442.3896,40
+34827,Contaminants septum vial Thermo C4000-53 and C4000-54 serie,758.222,195
+34469,"Suspect related to Spectral Match to 9Z,11E,13E-Octadecatrienoic acid methyl ester from NIST14 (predicted molecular formula: C14H32NO4) with delta m/z -14.007 (putative explanation: unspecified; atomic difference: unspecified)",279.232,9
+34647,NA,596.5102,35
+34732,NA,552.4836,35
+34731,NA,508.4574,35
+34954,Suspect related to Contaminant vial septum ThermoFisher C5000-44B (predicted molecular formula: unknown) with delta m/z 56.007 (putative explanation: unspecified; atomic difference: unspecified),832.241,195
+34799,NA,590.4789,NA
+34876,"Suspect related to Massbank:AU406506 3,6,9,12-Tetraoxatetracosan-1-ol|Tetraethylene glycol monododecyl ether|2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethanol (predicted molecular formula: C26H54O5) with delta m/z 101.12 (putative explanation: unspecified; atomic difference: unspecified)",464.4315,35
+35033,"Suspect related to Vitamin K1 (predicted molecular formula: C29H48O2) with delta m/z -21.984 (putative explanation: glyoxal-derived AGE (reverse)|Sodium adduct (reverse); atomic difference: -2C,2H|1H,-1Na)",429.3731,273
+35062,Suspect related to Spectral Match to (+)-.alpha.-Tocopherol from NIST14 (predicted molecular formula: C22H49N5O3) with delta m/z 1.003 (putative explanation: C isotope; atomic difference: (13)C),432.3872,273
+35074,NA,445.3678,NA
+35180,NA,483.4412,9
+35522,ACARBOSE,684.2038,195
+35633,NA,565.5193,9
+35171,Contaminants septum vial Thermo C4000-53 and C4000-54 serie,758.2224,195
+35742,NA,582.5464,9
+35560,NA,914.6198,NA
+35524,NA,474.4159,138
+35544,NA,444.4052,40
+35603,NA,563.5041,9
+35578,NA,566.4786,29
+35691,Suspect related to Contaminant vial septum ThermoFisher C5000-44B (predicted molecular formula: unknown) with delta m/z 56.007 (putative explanation: unspecified; atomic difference: unspecified),832.2415,195
+35779,NA,620.5262,NA
+35798,NA,526.4467,138
+35674,NA,580.5318,9
+35849,NA,120.102,NA
+35833,NA,326.3786,NA
+35984,NA,603.4605,NA
+35770,"Suspect related to 15-Hydroxy-11Z,13E-eicosadienoic acid (predicted molecular formula: C18H32O3) with delta m/z -28.031 (putative explanation: Desethylation, didemethylation, dealkylation|Met->Cys substitution|Val->Ala substitution; atomic difference: -2C,-4H|-2C,-4H|-2C,-4H)",279.2321,9
+36201,NA,727.5705,32
+36648,NA,563.0693,NA
+36646,NA,253.1089,161
+37049,NA,526.3152,9
+1_i,NA,261.0585 OR 277.0326,NA
+10_i,NA,474.2186 OR 508.2037,87
+103_i,NA,217.1074 OR 234.134,NA
+105_i,Spectral Match to Nonaethylene glycol from NIST14 OR Suspect related to Spectral Match to Hexaethylene glycol from NIST14 (predicted molecular formula: C19H37N5O6) with delta m/z 149.105 (putative explanation: unspecified; atomic difference: unspecified),415.2545 OR 432.2809,39
+107_i,NA,269.1368,NA
+1079_i,NA,592.4943 OR 597.4495,29
+108_i,"Suspect related to Spectral Match to Decaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z -88.053 (putative explanation: PEG repeat unit x2 (reverse); atomic difference: -4C,-8H,-2O) OR Suspect related to Spectral Match to Nonaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z -27.0 (putative explanation: unspecified; atomic difference: unspecified)",371.2282 OR 388.2546,39
+109_i,NA,213.112 OR 230.139 OR 231.1232 OR 253.1051 OR 266.1602 OR 271.1156 OR 287.0895 OR 290.1603,NA
+11_i,Phenylalanine - 40.00 eV,132.102 OR 166.0864,NA
+110_i,NA,169.0861,NA
+112_i,NA,109.0649 OR 304.1759 OR 309.1313,NA
+1140_i,NA,697.5268,NA
+115_i,NA,211.0947,NA
+117_i,NA,276.1449,NA
+12_i,Spectral Match to Pantothenic acid from NIST14,220.1182 OR 242.1002 OR 258.0742,34 OR 256
+13_i,NA,232.0277 OR 249.0544 OR 254.0096,NA
+14_i,NA,210.061 OR 215.0164,22
+15_i,NA,152.0708 OR 174.0528 OR 190.0267,NA
+16_i,NA,135.1017 OR 152.1283,NA
+18_i,"Suspect related to Hexaethylene glycol (predicted molecular formula: C10H22O6) with delta m/z -44.026 (putative explanation: Dealkoxylation, dehydroxyethylation|Thr->Gly substitution; atomic difference: -1C,-2H,-1O|-2C,-4H,-1O) OR Suspect related to Spectral Match to Hexaethylene glycol from NIST14 (predicted molecular formula: C10H22O6) with delta m/z -27.0 (putative explanation: unspecified; atomic difference: unspecified)",239.1492 OR 256.1758,39
+19_i,NA,181.0721 OR 203.0537,145
+197_i,NA,215.1393 OR 255.1323,234
+22_i,D-TRYPTOPHAN - 50.0 eV,205.0975 OR 227.0794 OR 249.0615,5
+23_i,NA,188.0708,5
+25_i,NA,262.1187 OR 284.1009,NA
+258_i,NA,163.133,192
+26_i,NA,186.1127 OR 187.0966,NA
+27_i,lenticin,247.1443 OR 269.1261 OR 285.1003,NA
+29_i,Putative Lys-C7:1,257.1498 OR 275.1604 OR 297.1427 OR 319.1241,17
+297_i,NA,183.1494 OR 205.1315,27
+306_i,NA,686.8834 OR 708.863,61
+308_i,NA,708.9064 OR 730.8869,NA
+31_i,NA,180.0658 OR 202.0477 OR 224.0298,194
+33_i,NA,247.1193,NA
+337_i,NA,700.738 OR 1051.1045,23
+34_i,NA,149.1175 OR 166.144,NA
+348_i,NA,658.3676 OR 987.5485,6
+384_i,NA,826.8196 OR 1240.2272,NA
+392_i,NA,1313.4031 OR 1319.4122,NA
+394_i,NA,1314.0706 OR 1320.0809,NA
+395_i,NA,968.0467 OR 998.0611,6
+397_i,NA,1016.0688 OR 1027.0664,286
+40_i,"Suspect related to Spectral Match to Decaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z -176.106 (putative explanation: PEG repeat unit x4 (reverse); atomic difference: -8C,-16H,-4O) OR Suspect related to Spectral Match to Nonaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z -115.053 (putative explanation: unspecified; atomic difference: unspecified)",283.1755 OR 300.202,39
+400_i,NA,1353.1037 OR 1354.0914,NA
+402_i,NA,1347.4278 OR 1353.4371,NA
+403_i,NA,1346.7603 OR 1352.7692,286
+404_i,NA,1346.4262 OR 1352.4355,NA
+405_i,NA,1015.8201 OR 1026.8113,NA
+406_i,NA,1010.8233 OR 1021.8227,6
+41_i,NA,184.1334 OR 201.1599,27
+415_i,NA,1111.6337 OR 1135.6501,18
+416_i,NA,926.5277 OR 1389.787,NA
+417_i,NA,1111.8326 OR 1135.8484,18
+419_i,NA,1112.0316 OR 1136.0457,66
+421_i,NA,125.7384 OR 125.7607,NA
+422_i,NA,943.0409 OR 1414.5549,18
+424_i,NA,943.3723 OR 1415.053,66
+425_i,NA,943.2056 OR 1414.8049,18 OR 66
+43_i,NA,129.0911,NA
+45_i,"Massbank:AU270106 N-Formyl-4-aminoantipyrine|4-Formylaminoantipyrine|N-(1,5-dimethyl-3-oxo-2-phenylpyrazol-4-yl)formamide",232.1084 OR 254.0903 OR 270.0644,21
+453_i,NA,931.7756 OR 944.8277,60 OR 113
+460_i,NA,1099.4605 OR 1143.4004,60 OR 93
+465_i,NA,344.244,NA
+472_i,NA,391.2104,NA
+479_i,NA,316.2008,NA
+48_i,NA,139.0755 OR 197.0787,276
+495_i,NA,386.2544,NA
+506_i,"Suspect related to 10,12-Tricosadiynoic acid (predicted molecular formula: C18H37NO5) with delta m/z 0.984 (putative explanation: Asn->Asp substitution|Deamidation|Gln->Glu substitution|Amide hydroxylation; atomic difference: -1H,-1N,1O|-1H,-1N,1O|-1H,-1N,1O|1O,-1N,-1H)",348.275 OR 353.2306 OR 375.2132,29
+51_i,"Massbank:AU200106 4-Acetamidoantipyrin|4-Acetamidoantipyrine|N-(1,5-dimethyl-3-oxo-2-phenylpyrazol-4-yl)acetamide",228.1134 OR 246.1238 OR 268.106 OR 284.0798,21
+54_i,NA,167.1069 OR 225.1112 OR 244.1547,NA
+541_i,"Suspect related to Massbank: Myristamidopropyl betaine|carboxymethyl-dimethyl-[3-(tetradecanoylamino)propyl]azanium (predicted molecular formula: unknown) with delta m/z -28.031 (putative explanation: Desethylation, didemethylation, dealkylation|Met->Cys substitution|Val->Ala substitution; atomic difference: -2C,-4H|-2C,-4H|-2C,-4H)",343.2961 OR 365.2781,40 OR 108
+558_i,NA,291.1975 OR 349.1996,29
+570_i,NA,311.2221 OR 329.2328 OR 346.2593 OR 346.2595 OR 351.215 OR 351.2151 OR 370.2594,40 OR 227 OR 264
+582_i,NA,289.1809 OR 347.1837,NA
+590_i,NA,387.1808 OR 404.207 OR 409.1627,216
+601_i,NA,404.301 OR 409.257,NA
+604_i,NA,397.2592 OR 414.2856 OR 419.2411 OR 435.2149,283
+623_i,NA,376.2596 OR 393.2865 OR 398.2418 OR 768.5387,220
+625_i,NA,387.1938 OR 404.22 OR 409.1754,150
+626_i,Spectral Match to 9-OxoOTrE from NIST14,275.2018 OR 333.2049,NA
+632_i,"Austinoneol OR NCGC00347704-02_C24H32O7_2H-Oxireno[1,10a]phenanthro[3,2-b]furan-10(11bH)-one, 5,7-bis(acetyloxy)-3,3a,4,5,6,7,7a,7b,8,8a-decahydro-4,4,7a,11-tetramethyl-, (1aS,3aR,5S,7S,7aR,7bS,8aR,11bR)- [IIN-based on: CCMSLIB00000853048]",415.212 OR 432.2386 OR 437.1938 OR 453.1679,74
+638_i,NA,500.2756,NA
+641_i,"Suspect related to 1-(1Z-Octadecenyl)-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphoethanolamine (predicted molecular formula: C27H44NO7P) with delta m/z -250.266 (putative explanation: unspecified; atomic difference: unspecified)",526.2931,9
+643_i,NA,548.2748,NA
+644_i,Suspect related to (2-{[3-(hexadecanoyloxy)-2-hydroxypropyl phosphonato]oxy}ethyl)trimethylazanium (predicted molecular formula: C21H46N9O4P) with delta m/z 24.007 (putative explanation: unspecified; atomic difference: unspecified),520.3404 OR 542.3223,34
+646_i,"Suspect related to 9-Oxo-10(E),12(E)-octadecadienoic acid (predicted molecular formula: C14H28N6O2) with delta m/z 18.01 (putative explanation: Proline oxidation to 5-hydroxy-2-aminovaleric acid|water; atomic difference: 2H,1O|2H,1O)",295.2272 OR 312.2537 OR 330.2643 OR 335.2199 OR 354.2645 OR 357.2029,9 OR 224
+65_i,NA,276.164 OR 551.3193 OR 573.3014,254 OR 297
+655_i,"Suspect related to (2-aminoethoxy)[2-[octadec-11-enoyloxy]-3-[octadec-9-enoyloxy]propoxy]phosphinic acid (predicted molecular formula: C23H44NO7P) with delta m/z -266.261 (putative explanation: stearoylation (reverse); atomic difference: -18C,-34H,-1O) OR Suspect related to 1-Arachidonoylglycerol (predicted molecular formula: C25H44NO7P) with delta m/z 141.019 (putative explanation: unspecified; atomic difference: unspecified) OR Suspect related to 1-Oleoyl-L-.alpha.-lysophosphatidic acid (predicted molecular formula: C23H46NO7P) with delta m/z 43.043 (putative explanation: Carboxyl modification with ethanolamine|unspecified; atomic difference: 2C,5H,1N|2C,5H,1N)",478.2936 OR 502.292 OR 502.2937,9
+662_i,NA,315.2535 OR 337.2356,NA
+663_i,"Suspect related to Spectral Match to 1-Myristoyl-sn-glycero-3-phosphocholine from NIST14 (predicted molecular formula: C28H50NO7P) with delta m/z 76.031 (putative explanation: Acrolein addition +76|Ala->Phe substitution|Ser->Tyr substitution|unspecified; atomic difference: 6C,4H|6C,4H|6C,4H|6C,4H)",544.3395,34
+666_i,"Suspect related to Spectral Match to 1-Pentadecanoyl-sn-glycero-3-phosphocholine from NIST14 (predicted molecular formula: C25H47N5O8) with delta m/z 64.031 (putative explanation: unspecified; atomic difference: 5C,4H)",568.3403,34
+671_i,NA,273.17 OR 290.1966,250
+678_i,NA,415.2121 OR 432.2384,NA
+68_i,NA,111.0806 OR 272.1859,NA
+683_i,"Suspect related to Spectral Match to 1-Stearoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine from NIST14 (predicted molecular formula: C25H41O7) with delta m/z -28.031 (putative explanation: Desethylation, didemethylation, dealkylation|Met->Cys substitution|Val->Ala substitution; atomic difference: -2C,-4H|-2C,-4H|-2C,-4H)",454.2934 OR 476.2763,9
+684_i,NA,289.1783,NA
+687_i,NA,376.1419 OR 403.1033,NA
+688_i,NA,504.3096 OR 528.309,9
+69_i,NA,153.0912 OR 171.1018 OR 188.1283,242
+693_i,NA,339.2153,NA
+694_i,NA,357.1816 OR 374.2077 OR 379.1634,36
+696_i,"Suspect related to 1-Palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine (predicted molecular formula: C23H46NO7P) with delta m/z 26.016 (putative explanation: Acetaldehyde +26|Ala->Pro substitution|unspecified; atomic difference: 2C,2H|2C,2H|2C,2H)",480.3092 OR 524.2729,9
+697_i,NA,326.2329 OR 331.1886,NA
+698_i,NA,365.0487,NA
+7_i,"Spectral Match to Lactose from NIST14 OR Spectral Match to Melibiose from NIST14 OR Suspect related to Lactose (predicted molecular formula: C24H44O22) with delta m/z 342.117 (putative explanation: unspecified; atomic difference: unspecified) OR Suspect related to Spectral Match to Maltotetraose from NIST14 (predicted molecular formula: C12H22O11) with delta m/z -324.106 (putative explanation: Lactosylation (reverse); atomic difference: -12C,-20H,-10O) OR Suspect related to Spectral Match to Melibiose from NIST14 (predicted molecular formula: unknown) with delta m/z 17.027 (putative explanation: replacement of proton with ammonium ion; atomic difference: 3H,1N)",163.0602 OR 325.1133 OR 343.1239 OR 360.1504 OR 365.1058 OR 381.0797 OR 685.2405 OR 702.267 OR 707.2223 OR 723.1959,1 OR 79 OR 102
+703_i,NA,392.2543 OR 409.2815,NA
+704_i,NA,367.0441,NA
+705_i,"Suspect related to Spectral Match to PAF C-16 from NIST14 (predicted molecular formula: C28H52NO7P) with delta m/z 21.984 (putative explanation: Sodium adduct|glyoxal-derived AGE; atomic difference: -1H,1Na|2C,-2H)",546.3564 OR 570.3562,34
+708_i,NA,411.0523 OR 433.0359,NA
+709_i,NA,311.1269 OR 338.0878,209
+710_i,NA,313.1221 OR 340.0833,NA
+711_i,"Suspect related to 1,2-Dioleoyl-sn-glycerol (predicted molecular formula: unknown) with delta m/z -12.018 (putative explanation: Asp->Cys substitution; atomic difference: -1C,-2O,1S)",327.2533 OR 362.2906 OR 367.247,29
+712_i,"Suspect related to Spectral Match to Lyso-PC(16:0) from NIST14 (predicted molecular formula: C26H52NO7P) with delta m/z 26.016 (putative explanation: Acetaldehyde +26|Ala->Pro substitution|unspecified; atomic difference: 2C,2H|2C,2H|2C,2H)",522.356,34
+714_i,NA,550.2898,NA
+717_i,NA,303.2332 OR 361.2359 OR 380.2803 OR 383.2201,NA
+718_i,NA,408.1685 OR 435.1294,NA
+719_i,"Suspect related to 1-O-Hexadecyl-2-O-acetyl-sn-glyceryl-3-phosphorylcholine (predicted molecular formula: C24H50NO7P) with delta m/z -28.031 (putative explanation: Desethylation, didemethylation, dealkylation|Met->Cys substitution|Val->Ala substitution; atomic difference: -2C,-4H|-2C,-4H|-2C,-4H) OR Suspect related to Spectral Match to 1-Lignoceroyl-2-hydroxy-sn-glycero-3-phosphocholine from NIST14 (predicted molecular formula: C24H50NO7P) with delta m/z -112.125 (putative explanation: unspecified; atomic difference: unspecified)",496.3404 OR 518.3227 OR 530.3252,9 OR 34
+723_i,"Suspect related to Spectral Match to 9-Oxo-10E,12Z-octadecadienoic acid from NIST14 (predicted molecular formula: C16H30O4) with delta m/z -8.005 (putative explanation: unspecified; atomic difference: unspecified)",269.2115 OR 291.194,139
+725_i,NA,313.1761,NA
+73_i,NA,171.1382,NA
+731_i,NA,351.2533 OR 369.2636 OR 391.2465,9 OR 202
+733_i,NA,315.1935 OR 337.1762,224
+741_i,Suspect related to 1-Palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine (predicted molecular formula: C24H35N7O) with delta m/z -15.995 (putative explanation: Ser->Ala substitution|Tyr->Phe substitution|reduction; atomic difference: -1O|-1O|-1O) OR Suspect related to 2-hydroxy-3-(2-hydroxyacetoxy)propyl palmitate (predicted molecular formula: C21H44NO6P) with delta m/z -46.988 (putative explanation: unspecified; atomic difference: unspecified),438.2985 OR 460.2794 OR 482.2625,2 OR 228
+743_i,NA,458.2291 OR 463.1845 OR 479.1587,228 OR 362
+744_i,NA,472.2451,NA
+745_i,Suspect related to Pinanethromboxane A2 (predicted molecular formula: C18H28O3) with delta m/z -84.094 (putative explanation: unspecified; atomic difference: unspecified),275.2006 OR 293.2114 OR 311.2221 OR 328.2487 OR 333.2043 OR 349.1772 OR 349.1775 OR 355.1864,9 OR 139
+749_i,NA,388.2238 OR 393.179,36
+750_i,NA,405.2604,NA
+757_i,Suspect related to TOP19 Psoriasis feature - Unknown FeatureID=3668 (predicted molecular formula: C14H39N8O6P) with delta m/z -2.016 (putative explanation: 2-amino-3-oxo-butanoic_acid|Intact disulfide bridge|Val->Pro substitution; atomic difference: -2H|-2H|-2H),464.3143 OR 486.2965,228
+759_i,"Suspect related to Spectral Match to Monolinolenin (9c,12c,15c) from NIST14 (predicted molecular formula: C21H41NO5) with delta m/z 35.037 (putative explanation: unspecified; atomic difference: unspecified)",388.3064 OR 393.2617,NA
+76_i,NA,155.107 OR 195.1009,NA
+761_i,NA,257.1904,NA
+763_i,NA,344.2799 OR 349.2355,NA
+770_i,NA,293.1751 OR 310.2018,9
+771_i,"Spectral Match to 13-Keto-9Z,11E-octadecadienoic acid from NIST14 OR Suspect related to Spectral Match to 9-OxoOTrE from NIST14 (predicted molecular formula: C18H30O3) with delta m/z 2.016 (putative explanation: Pro->Val substitution|reduction; atomic difference: 2H|2H)",277.2166 OR 295.2272 OR 317.2092 OR 333.1834 OR 339.1911 OR 611.4287,9 OR 89
+774_i,NA,319.228 OR 343.227 OR 365.2099,89
+779_i,NA,504.2851 OR 521.3124,267
+78_i,NA,141.0911 OR 332.2071,NA
+783_i,NA,456.2961,NA
+784_i,NA,326.233 OR 343.2597 OR 348.2148,36 OR 177
+785_i,"Spectral Match to 1-Eicosatrienoyl-sn-glycero-3-phosphoethanolamine from NIST14 OR Suspect related to 1-Myristoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine (predicted molecular formula: C30H43NO4) with delta m/z 56.062 (putative explanation: Diethylation, analogous to Dimethylation|Gly->Leu/Ile substitution; atomic difference: 4C,8H|4C,8H)",482.3248 OR 504.3073 OR 526.2885,2 OR 9 OR 34
+787_i,NA,343.3327,NA
+789_i,NA,269.2477,NA
+791_i,NA,410.3019 OR 444.2861,36
+794_i,"Suspect related to Massbank:RP026103 1-palmitoyl-2-hydroxy-sn-glycero-3-phosphoethanolamine|1-palmitoyl-sn-glycero-3-phosphoethanolamine|2-azaniumylethyl [(2R)-3-hexadecanoyloxy-2-hydroxypropyl] phosphate (predicted molecular formula: C27H45N3O6) with delta m/z 54.047 (putative explanation: unspecified; atomic difference: 4C,6H)",508.3404 OR 530.3229,9
+795_i,NA,390.3221 OR 395.2775,NA
+797_i,"Spectral Match to 1-Octadecanoyl-sn-glycero-3-phosphocholine from NIST14 OR Suspect related to Spectral Match to Lyso-PC(16:0) from NIST14 (predicted molecular formula: C26H54NO7P) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H)",524.3715 OR 546.3541,34
+799_i,NA,303.2323 OR 321.243 OR 343.2259 OR 365.2076,9
+8_i,"Suspect related to Spectral Match to 1-Octadecanoyl-sn-glycero-3-phosphocholine from NIST14 (predicted molecular formula: C8H20NO6P) with delta m/z -266.261 (putative explanation: stearoylation (reverse); atomic difference: -18C,-34H,-1O)",280.0925 OR 296.0666,34
+800_i,NA,399.2283 OR 416.2549 OR 421.2101 OR 437.1844,36
+803_i,NA,211.9467 OR 238.9076,NA
+806_i,NA,341.1535 OR 368.1145,89
+807_i,NA,366.1194 OR 393.0799,NA
+808_i,NA,395.0754,NA
+809_i,NA,439.0835 OR 461.0669,NA
+81_i,NA,320.2074,NA
+810_i,NA,339.1583,89
+811_i,NA,315.1583,NA
+813_i,NA,279.2323 OR 297.2429 OR 319.2252 OR 341.207 OR 637.4421,89 OR 202
+814_i,NA,394.1892 OR 421.1504,NA
+816_i,NA,338.2331 OR 355.2599,36
+817_i,NA,345.2422 OR 367.2253,NA
+818_i,Suspect related to 1-Palmitoyl-2-myristoyl-sn-glycero-3-phosphocholine (predicted molecular formula: C38H78N4O5S) with delta m/z -2.964 (putative explanation: unspecified; atomic difference: unspecified),725.5589,32
+82_i,NA,197.1172 OR 214.144,NA
+820_i,"Suspect related to 1-Oleoyl-sn-glycero-3-phosphoethanolamine (predicted molecular formula: C25H43N3O5) with delta m/z -13.981 (putative explanation: Asp->Thr substitution; atomic difference: 2H,-1O) OR Suspect related to 2-hydroxy-3-(2-hydroxyacetoxy)propyl palmitate (predicted molecular formula: C23H48NO6P) with delta m/z -18.958 (putative explanation: unspecified; atomic difference: unspecified)",466.3299 OR 488.3124,2 OR 228
+825_i,NA,340.2494 OR 357.2761,NA
+827_i,NA,518.3329 OR 523.2888,42
+832_i,Spectral Match to Glycerol 1-myristate from NIST14,285.2428 OR 303.2535 OR 320.28,9
+833_i,NA,324.1473 OR 351.1083,9
+834_i,NA,753.5902,32
+837_i,Spectral Match to 15-OxoEDE from NIST14,323.2586 OR 347.2589 OR 369.2415,9
+838_i,"Suspect related to 3,6,9,12,15-Pentaoxaheptacosan-1-ol, hydrogen sulfate (predicted molecular formula: unknown) with delta m/z -88.053 (putative explanation: PEG repeat unit x2 (reverse); atomic difference: -4C,-8H,-2O)",416.2678,35
+84_i,HARMANE CollisionEnergy:102040,101.0598 OR 165.0913 OR 183.1018 OR 201.1124 OR 218.139 OR 223.0951,145
+840_i,NA,421.2242 OR 443.2056,NA
+847_i,"Suspect related to 3,6,9,12,15-Pentaoxanonacosan-1-ol, hydrogen sulfate (predicted molecular formula: unknown) with delta m/z -72.057 (putative explanation: nan (reverse); atomic difference: -2C,-6H,-3N)",460.2952 OR 465.2498 OR 487.232,35
+848_i,NA,408.3688 OR 429.3191,NA
+862_i,NA,375.2529,NA
+863_i,"Suspect related to 3,6,9,12,15-Pentaoxanonacosan-1-ol, hydrogen sulfate (predicted molecular formula: unknown) with delta m/z -28.031 (putative explanation: Desethylation, didemethylation, dealkylation|Met->Cys substitution|Val->Ala substitution; atomic difference: -2C,-4H|-2C,-4H|-2C,-4H)",504.321 OR 531.2582,35
+864_i,NA,399.3228 OR 457.3279,NA
+868_i,"Suspect related to 3,6,9,12,15-Pentaoxanonacosan-1-ol, hydrogen sulfate (predicted molecular formula: unknown) with delta m/z 15.995 (putative explanation: Ala->Ser substitution|Oxidation or Hydroxylation|Phe->Tyr substitution; atomic difference: 1O|1O|1O)",548.3462 OR 575.2844,35
+869_i,NA,403.2848 OR 420.3116,NA
+871_i,NA,397.2358,NA
+88_i,"Suspect related to Spectral Match to Decaethylene glycol from NIST14 (predicted molecular formula: unknown) with delta m/z -132.079 (putative explanation: PEG repeat unit x3 (reverse); atomic difference: -6C,-12H,-3O) OR Suspect related to Spectral Match to Hexaethylene glycol from NIST14 (predicted molecular formula: C14H30O8) with delta m/z 61.053 (putative explanation: unspecified|unspecified; atomic difference: 2C,7H,1N,1O|5H,4N)",327.2017 OR 344.2283,39
+881_i,NA,759.6377 OR 781.6197 OR 781.62,NA
+885_i,Suspect related to Kahweol acetate (predicted molecular formula: C26H36N4O5) with delta m/z 128.084 (putative explanation: unspecified; atomic difference: unspecified),485.2903 OR 502.3165,315
+886_i,"Suspect related to C16 Lactosyl Ceramide (d18:1/16:0) (predicted molecular formula: C40H77NO9) with delta m/z -146.058 (putative explanation: Fucose (reverse); atomic difference: -6C,-10H,-4O)",716.5691 OR 738.5503,321
+893_i,NA,352.3213 OR 392.314,NA
+895_i,NA,725.5594,32
+898_i,"Suspect related to Spectral Match to 9Z,11E,13E-Octadecatrienoic acid methyl ester from NIST14 (predicted molecular formula: C18H30O2) with delta m/z -14.016 (putative explanation: Ala->Gly substitution|Gln->Asn substitution|Glu->Asp substitution|Leu/Ile->Val substitution|Thr->Ser substitution; atomic difference: -1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H|-1C,-2H)",279.2322 OR 296.2588 OR 320.259,9
+9_i,NA,622.2087 OR 638.1826,142
+902_i,NA,374.3044,NA
+904_i,NA,454.317 OR 471.3435 OR 476.2991,149
+907_i,NA,452.302 OR 469.3278,NA
+908_i,NA,487.3616,NA
+917_i,"Spectral Match to cis-4,7,10,13,16,19-Docosahexaenoic acid from NIST14",329.2482 OR 346.275,9
+918_i,NA,502.4107 OR 507.366,NA
+919_i,NA,592.4943 OR 597.4498,29
+920_i,NA,255.123,NA
+921_i,NA,674.4634 OR 679.4189 OR 695.3925,283
+922_i,NA,385.2589 OR 402.2857,149
+923_i,NA,466.3174 OR 485.3584,NA
+925_i,NA,359.1674 OR 383.1676,NA
+927_i,NA,483.3436,149
+928_i,NA,379.2611 OR 385.2703,NA
+93_i,NA,288.1808 OR 306.1915 OR 329.1575,NA
+930_i,NA,472.3177 OR 477.2733,36
+934_i,"Suspect related to NCGC00385123-01_C22H30O6_7b,9-Dihydroxy-3-(hydroxymethyl)-1,1,6,8-tetramethyl-5-oxo-1,1a,1b,4,4a,5,7a,7b,8,9-decahydro-9aH-cyclopropa[3,4]benzo[1,2-e]azulen-9a-yl acetate (predicted molecular formula: unknown) with delta m/z 116.064 (putative explanation: Dealkylation (typically de-1-propenylbenzene) (reverse); atomic difference: 9C,8H)",531.2745 OR 548.3014 OR 553.2572,74
+935_i,"Spectral Match to 1-Hexadecanoyl-sn-glycerol from NIST14 OR Suspect related to 1-Palmitoylglycerol (predicted molecular formula: unknown) with delta m/z 17.027 (putative explanation: replacement of proton with ammonium ion; atomic difference: 3H,1N) OR Suspect related to Spectral Match to 1-Hexadecanoyl-sn-glycerol from NIST14 (predicted molecular formula: unknown) with delta m/z -18.011 (putative explanation: Dehydration|Pyro-glu from E|carbodiimide crosslinker; atomic difference: -2H,-1O|-2H,-1O|-2H,-1O)",313.274 OR 331.2847 OR 348.3111 OR 353.267,9
+936_i,AC1L1X1Z CollisionEnergy:102040,637.306 OR 654.3327 OR 659.2881 OR 700.3146,163
+942_i,"Suspect related to 8,11-Tridecadienoic acid, 13-(3-pentyl-2-oxiranyl)-, (8Z,11Z)- (predicted molecular formula: C18H34O3) with delta m/z -23.999 (putative explanation: nan (reverse); atomic difference: -2C) OR Suspect related to 8Z,14Z-Eicosadienoic acid (predicted molecular formula: C18H32O2) with delta m/z -28.031 (putative explanation: Desethylation, didemethylation, dealkylation|Met->Cys substitution|Val->Ala substitution; atomic difference: -2C,-4H|-2C,-4H|-2C,-4H) OR Suspect related to 8Z,14Z-Eicosadienoic acid (predicted molecular formula: C20H35NO2) with delta m/z 12.996 (putative explanation: Loss of O2; nitro photochemical decomposition|Thr->Asn substitution; atomic difference: -1H,1N|-1H,1N) OR Suspect related to Spectral Match to Monoelaidin from NIST14 (predicted molecular formula: C18H37NO3) with delta m/z -41.015 (putative explanation: nan (reverse); atomic difference: -1C,-1H,-2N)",263.2373 OR 281.2479 OR 298.2745 OR 322.2746,9
+948_i,Suspect related to Linoleic acid ethyl ester (predicted molecular formula: C24H36O2) with delta m/z 48.0 (putative explanation: Val->Phe substitution; atomic difference: 4C) OR Suspect related to Spectral Match to Monoelaidin from NIST14 (predicted molecular formula: C18H41N6O2) with delta m/z 17.044 (putative explanation: unspecified; atomic difference: unspecified),357.3008 OR 374.327 OR 379.2833,9
+95_i,NA,209.1172 OR 227.1278 OR 262.1653 OR 267.1208,NA
+950_i,NA,352.2491 OR 369.2757,NA
+952_i,NA,384.2388 OR 401.2652,NA
+954_i,NA,354.3373 OR 376.3194,NA
+955_i,NA,456.3691 OR 461.3247,29
+956_i,NA,599.4269 OR 611.4275,42
+957_i,NA,513.3427 OR 530.3693 OR 535.3247,42
+958_i,NA,544.3849,42
+959_i,NA,351.3011 OR 369.2878,346
+962_i,"Suspect related to Methyl trans-vaccenate (predicted molecular formula: C18H32O) with delta m/z -32.026 (putative explanation: nan (reverse); atomic difference: -1C,-4H,-1O) OR Suspect related to Spectral Match to Myristoleic acid from NIST14 (predicted molecular formula: C18H34O2) with delta m/z 56.062 (putative explanation: Diethylation, analogous to Dimethylation|Gly->Leu/Ile substitution; atomic difference: 4C,8H|4C,8H)",247.2424 OR 265.2529 OR 283.2635 OR 300.2902 OR 324.29,9
+966_i,"Spectral Match to Glycerol 1-stearate from NIST14 OR Suspect related to NCGC00186665-03!2,3-dihydroxypropyl hexadecanoate (predicted molecular formula: unknown) with delta m/z 28.031 (putative explanation: Acetaldehyde +28|Ala->Val substitution|Cys->Met substitution|Ethylation|di-Methylation; atomic difference: 2C,4H|2C,4H|2C,4H|2C,4H|2C,4H) OR Suspect related to Spectral Match to Glycerol 1-myristate from NIST14 (predicted molecular formula: C21H42O4) with delta m/z 56.062 (putative explanation: Diethylation, analogous to Dimethylation|Gly->Leu/Ile substitution; atomic difference: 4C,8H|4C,8H)",341.3055 OR 359.3161 OR 376.3427,9
+98_i,NA,294.1916 OR 318.1914,84
+980_i,NA,599.4654,NA
