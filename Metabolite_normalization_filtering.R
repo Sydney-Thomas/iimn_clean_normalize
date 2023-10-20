@@ -99,7 +99,7 @@ for (i in 2:ncol(norm_imp)) {
                          round(runif(nrow(norm_imp), min = min(norm_imp[,i])-1, max = min(norm_imp[,i])), 1),
                          norm_imp[,i])
 }
-write_csv(norm, "Metabolites_normalized.csv")
+write_csv(norm_iimn, "Metabolites_normalized.csv")
 write_csv(norm_imp, "Metabolites_normalized_imputed.csv")
 write_csv(labels, "iimn_groups.csv")
 
