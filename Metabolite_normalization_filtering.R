@@ -58,8 +58,10 @@ write_csv(library_iimn, "library_matches.csv")
 canopus <- read.delim("canopus_compound_summary.tsv")
 canopus$name <- str_replace_all(canopus$id, ".*iimn_", "")
 canopus <- canopus %>% dplyr::select(name, NPC.superclass, NPC.class, NPC.pathway, ClassyFire.superclass, ClassyFire.class, ClassyFire.subclass, ClassyFire.level.5)
-canopus <- right_join(labels, canopus, by = c("row.ID" = "name"), multiple = "all")
 canopus[canopus == ""] <- NA
+## Remove duplicates
+canopus <- canopus %>% distinct(name, .keep_all = TRUE)
+canopus <- right_join(labels, canopus, by = c("row.ID" = "name"))
 
 ## Collapse ions (keeps all canopus IDs in the iimn network separated by OR)
 result_list <- list()
@@ -78,7 +80,7 @@ canopus_iimn$row.ID <- paste0(canopus_iimn$row.ID, "_i")
 canopus_f <- canopus %>% filter(is.na(annotation.network.number)) %>% dplyr::select(-annotation.network.number)
 canopus_iimn <- rbind(canopus_f, canopus_iimn)
 canopus_iimn <- canopus_iimn %>% rename(Metabolite = row.ID)
-write_csv(canopus, "canopus_matches.csv")
+write_csv(canopus_iimn, "canopus_matches.csv")
 
 norm_iimn <- norm_iimn %>%
   gather(Sample, value, 2:ncol(norm_iimn)) %>%
