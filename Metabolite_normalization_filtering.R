@@ -7,7 +7,7 @@ library(ggplot2)
 library(vegan)
 
 ## Cleanup feature quant table from MZmine ###########################################################################
-norm <- read.csv("Example_iimn_GNPS_quant.csv")
+norm <- read.csv("./Example/Input/Example_iimn_GNPS_quant.csv")
 norm <- norm %>% dplyr::select(-X)
 norm <- norm %>% rename_with(~str_replace_all(., ".mzML.Peak.area", ""))
 norm <- norm %>% dplyr::select(-(row.m.z:correlation.group.ID), -(best.ion:neutral.M.mass))
@@ -25,9 +25,9 @@ norm_iimn <- norm %>% filter(is.na(annotation.network.number)) %>% dplyr::select
 norm_iimn <- rbind(norm_iimn, iimn)
 
 ## Read in FBMN library IDs from GNPS
-library_ID <- read.delim("FBMN_IDs.tsv")
-library_ID <- library_ID %>% dplyr::select(cluster.index, LibraryID, precursor.mass, componentindex)
-colnames(library_ID) <- c("row.ID", "LibraryID", "Precursor_Mass", "Network_Number")
+library_ID <- read.delim("./Example/Input/FBMN_IDs.tsv")
+library_ID <- library_ID %>% dplyr::select(cluster.index, LibraryID, precursor.mass, componentindex, RTConsensus)
+colnames(library_ID) <- c("row.ID", "LibraryID", "Precursor_Mass", "Network_Number", "RTConsensus")
 library_ID$row.ID <- as.character(library_ID$row.ID)
 library_ID <- right_join(labels, library_ID, by = "row.ID", multiple = "all")
 library_ID[library_ID == "N/A"] <- NA
@@ -37,12 +37,21 @@ library_ID$Network_Number[library_ID$Network_Number == -1] <- NA
 result_list <- list()
 for (colname in c("LibraryID", "Precursor_Mass", "Network_Number")) {
   result <- library_ID %>%
-    filter(!is.na(annotation.network.number)) %>% 
-    group_by(annotation.network.number, !!sym(colname)) %>% 
-    summarise(n = n()) %>% 
-    group_by(annotation.network.number) %>% 
-    summarise(concat = paste(na.omit(!!sym(colname)), collapse = " OR ")) %>% 
+    filter(!is.na(annotation.network.number)) %>%
+    group_by(annotation.network.number, !!sym(colname)) %>%
+    summarise(n = n()) %>%
+    group_by(annotation.network.number) %>%
+    summarise(concat = paste(na.omit(!!sym(colname)), collapse = " OR ")) %>%
     rename(!!colname := "concat")
+  result_list[[colname]] <- result
+}
+## Calculate mean RT for all iimn ions
+for (colname in c("RTConsensus")) {
+  result <- library_ID %>%
+    filter(!is.na(annotation.network.number)) %>%
+    group_by(annotation.network.number) %>%
+    summarise(n = mean(!!sym(colname))) %>% 
+    rename(!!colname := "n")
   result_list[[colname]] <- result
 }
 
@@ -55,7 +64,7 @@ library_iimn[library_iimn == ""] <- NA
 write_csv(library_iimn, "library_matches.csv")
 
 ## Read in canopus from sirius workflow
-canopus <- read.delim("canopus_compound_summary.tsv")
+canopus <- read.delim("./Example/Input/canopus_compound_summary.tsv")
 canopus$name <- str_replace_all(canopus$id, ".*iimn_", "")
 canopus <- canopus %>% dplyr::select(name, NPC.superclass, NPC.class, NPC.pathway, ClassyFire.superclass, ClassyFire.class, ClassyFire.subclass, ClassyFire.level.5)
 canopus[canopus == ""] <- NA
