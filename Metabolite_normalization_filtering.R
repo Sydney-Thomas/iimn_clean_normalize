@@ -5,6 +5,7 @@ library(dplyr)
 library(tidyr)
 library(ggplot2)
 library(vegan)
+library(impute)
 
 ## Cleanup feature quant table from MZmine ###########################################################################
 norm <- read.csv("./Example/Input/Example_iimn_GNPS_quant.csv")
@@ -95,21 +96,29 @@ norm_iimn <- norm_iimn %>%
   gather(Sample, value, 2:ncol(norm_iimn)) %>%
   spread(row.ID, value)
 norm_iimn <- column_to_rownames(norm_iimn, var = "Sample")
+## Filter metabolites that are found in at least 10% of samples
+## This percentage is arbitrary! The ideal percentage will vary by dataset and can be adjusted by changing the 0.1*nrow
+norm_iimn <- norm_iimn %>% dplyr::select(where(~sum(. != 0) >= (0.1*nrow(norm_iimn))))
+## Write csv of un-preprocessed data
+norm_cleaned <- norm_iimn %>% rownames_to_column("Sample")
+write_csv(norm_cleaned, "Metabolites_cleaned.csv")
 ## Perform rclr preprocessing
 norm_iimn <- norm_iimn %>% decostand(method = "rclr")
-## Filter metabolites that are found in at least 10% of samples
-norm_iimn <- norm_iimn %>% dplyr::select(where(~sum(. != 0) >= (0.1*nrow(norm_iimn))))
-## Missing value imputation
+
+## Missing value imputation using KNN
+## For imputed data, we'll only take metabolites found in 20% of samples
+## Again, this is arbitrary and may depend on the dataset
+norm_imp <- norm_iimn %>% dplyr::select(where(~sum(. != 0) >= (0.2*nrow(norm_iimn))))
+norm_imp <- norm_imp %>% t() %>% as.data.frame()
+## We also need to filter out any samples with more than 80% missing data
+## This is necessary to perform KNN 
+norm_imp <- norm_imp %>% dplyr::select(where(~sum(. != 0) >= (0.25*nrow(norm_imp))))
+norm_imp[norm_imp == 0] <- NA
+norm_imp <- impute.knn(as.matrix(norm_imp), rowmax=1, k=50, rng.seed=1234)
+norm_imp <- norm_imp$data %>% t() %>% as.data.frame()
+
 norm_iimn <- rownames_to_column(norm_iimn, var = "Sample")
-set.seed(141)
-norm_imp <- norm_iimn
-for (i in 2:ncol(norm_imp)) {
-  norm_imp[,i] <- ifelse(norm_imp[,i] == 0,
-                         round(runif(nrow(norm_imp), min = min(norm_imp[,i])-1, max = min(norm_imp[,i])), 1),
-                         norm_imp[,i])
-}
-write_csv(norm_iimn, "Metabolites_normalized.csv")
-write_csv(norm_imp, "Metabolites_normalized_imputed.csv")
+norm_imp <- rownames_to_column(norm_imp, var = "Sample")
 write_csv(labels, "iimn_groups.csv")
 
 ########### Visualizations ###########################################################################################
