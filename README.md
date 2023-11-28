@@ -13,7 +13,7 @@ This script takes library annotations from a GNPS feature-based molecular networ
 Canopus is an optional step in the Sirius workflow that provides putative metabolite class information for features. To export canopus IDs, open a sirius project and click on the "Summaries" button. This will open a window asking which metabolite classes to include and will write the "canopus_compound_summary.tsv" file.
 
 # What is rclr preprocessing?
-Robust log centered ratio preprocessing was originally developed for large, sparse datasets in the microbiome field. More information about this method can be found in this paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6372836/
+Robust log centered ratio preprocessing was originally developed for large, sparse datasets in the microbiome field. More information about this method can be found in this paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6372836/.
 
 # How do you perform missing value imputation?
-For each feature, missing values are given a random number between the lowest value of that feature (L) and L-1. 
+Missing values are imputed using the K nearest neighbor (KNN) algorithm. KNN has been shown to outperform random value replacement and can run on large datasets without difficulty. See https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3110-0 and https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-016-0318-z. 
