@@ -119,6 +119,8 @@ norm_imp <- norm_imp$data %>% t() %>% as.data.frame()
 
 norm_iimn <- rownames_to_column(norm_iimn, var = "Sample")
 norm_imp <- rownames_to_column(norm_imp, var = "Sample")
+write_csv(norm_iimn, "Metabolites_normalized.csv")
+write_csv(norm_imp, "Metabolites_normalized_imputed.csv")
 write_csv(labels, "iimn_groups.csv")
 
 ########### Visualizations ###########################################################################################
