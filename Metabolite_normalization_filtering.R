@@ -112,7 +112,7 @@ norm_imp <- norm_iimn %>% dplyr::select(where(~sum(. != 0) >= (0.2*nrow(norm_iim
 norm_imp <- norm_imp %>% t() %>% as.data.frame()
 ## We also need to filter out any samples with more than 80% missing data
 ## This is necessary to perform KNN 
-norm_imp <- norm_imp %>% dplyr::select(where(~sum(. != 0) >= (0.25*nrow(norm_imp))))
+norm_imp <- norm_imp %>% dplyr::select(where(~sum(. != 0) >= (0.2*nrow(norm_imp))))
 norm_imp[norm_imp == 0] <- NA
 norm_imp <- impute.knn(as.matrix(norm_imp), rowmax=1, k=50, rng.seed=1234)
 norm_imp <- norm_imp$data %>% t() %>% as.data.frame()
