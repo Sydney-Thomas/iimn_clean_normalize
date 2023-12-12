@@ -99,9 +99,29 @@ norm_iimn <- column_to_rownames(norm_iimn, var = "Sample")
 ## Filter metabolites that are found in at least 10% of samples
 ## This percentage is arbitrary! The ideal percentage will vary by dataset and can be adjusted by changing the 0.1*nrow
 norm_iimn <- norm_iimn %>% dplyr::select(where(~sum(. != 0) >= (0.1*nrow(norm_iimn))))
-## Write csv of un-preprocessed data
 norm_cleaned <- norm_iimn %>% rownames_to_column("Sample")
+
+## Plot TICs and geometric mean of all samples (this can help identify any poor quality runs)
+TICs <- norm_cleaned
+TICs[TICs == 0] <- NA
+geom_mean <- function(x, na.rm = FALSE) {
+  x <- x[x > 0]  # Exclude non-positive values
+  if (length(x) > 0) exp(mean(log(x), na.rm = na.rm)) else NA
+}
+TICs <- TICs %>% rowwise() %>% mutate(TIC = sum(c_across(where(is.numeric)), na.rm = TRUE), Mean = geom_mean(c_across(where(is.numeric)), na.rm = TRUE))
+TIC_plot <- TICs %>% dplyr::select(Sample, TIC, Mean) %>% pivot_longer(TIC:Mean, names_to = "Type", values_to = "value")
+ggplot(TIC_plot, aes(x=reorder(Sample, value), y=log2(value), color=Type)) +
+  geom_point() +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+TICs[is.na(TICs)] <- 0
+## Create dataframe with features normalized by total ion current (TIC)
+TICs <- TICs %>%  mutate(across(where(is.numeric), ~ ./TIC)) %>% dplyr::select(-TIC, -Mean)
+
+## Write csv of raw data and TIC-normalized data
 write_csv(norm_cleaned, "Metabolites_cleaned.csv")
+write_csv(TICs, "Metabolites_TIC.csv")
+
 ## Perform rclr preprocessing
 norm_iimn <- norm_iimn %>% decostand(method = "rclr")
 
