@@ -2,7 +2,7 @@
 Takes MZmine output and collapses features that are in the same ion identity molecular network (iimn). It then peforms filtering, rclr preprocessing, and missing value imputation on the collapsed data. Also cleans library annotations from GNPS or canopus annotations from Sirius to match the collapsed feature table.
 
 # Is my feature table compatible? 
-To collapse features with iimn, you need to have run iimn in MZmine 3. The ion identity module can be added to an MZmine batch (see below). Before running, ensure that the appropriate ions are selected for your instrument method using the Ion identity library. The feature table used here is the quant.csv file exported from the Export molecular networking files module.
+To collapse features with iimn, you need to run iimn in MZmine 3. The ion identity module can be added to an MZmine batch (see below). Before running, ensure that the appropriate ions are selected for your instrument method using the Ion identity library. The feature table used here is the quant.csv file exported from the "Export molecular networking files" module.
 
 ![MZmine](https://github.com/Sydney-Thomas/iimn_clean_normalize/blob/08436debfcb3b600305fe941d36234ccfae0111e/MZmine_3_iimn.png)
 
