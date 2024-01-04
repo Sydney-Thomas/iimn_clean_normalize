@@ -126,9 +126,9 @@ write_csv(TICs, "Metabolites_TIC.csv")
 norm_iimn <- norm_iimn %>% decostand(method = "rclr")
 
 ## Missing value imputation using KNN
-## For imputed data, we'll only take metabolites found in 20% of samples
-## Again, this is arbitrary and may depend on the dataset
-norm_imp <- norm_iimn %>% dplyr::select(where(~sum(. != 0) >= (0.2*nrow(norm_iimn))))
+## For imputed data, we'll only take metabolites found in 50% of samples
+## Again, this is arbitrary and may depend on the dataset, but KNN can introduce artifacts if there is too much missing data
+norm_imp <- norm_iimn %>% dplyr::select(where(~sum(. != 0) >= (0.5*nrow(norm_iimn))))
 norm_imp <- norm_imp %>% t() %>% as.data.frame()
 ## We also need to filter out any samples with more than 80% missing data
 ## This is necessary to perform KNN 
