@@ -134,7 +134,7 @@ norm_imp <- norm_imp %>% t() %>% as.data.frame()
 ## This is necessary to perform KNN 
 norm_imp <- norm_imp %>% dplyr::select(where(~sum(. != 0) >= (0.2*nrow(norm_imp))))
 norm_imp[norm_imp == 0] <- NA
-norm_imp <- impute.knn(as.matrix(norm_imp), rowmax=1, k=50, rng.seed=1234)
+norm_imp <- impute.knn(as.matrix(norm_imp), rowmax=1, k=10, rng.seed=1234)
 norm_imp <- norm_imp$data %>% t() %>% as.data.frame()
 
 norm_iimn <- rownames_to_column(norm_iimn, var = "Sample")
