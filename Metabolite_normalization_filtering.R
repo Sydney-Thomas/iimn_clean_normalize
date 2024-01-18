@@ -163,7 +163,7 @@ norm_plot <- norm_plot %>% filter(Sample %in% top$Sample)
 
 norm_plot$Abundance[is.na(norm_plot$Abundance)] <- 100
 
-ggplot(norm_plot, aes(x = reorder(Sample, Abundance), y = log2(Abundance), group = row.ID, color = as.character(row.ID), shape = ID)) +
+ggplot(norm_plot, aes(x = reorder(Sample, Abundance), y = log2(Abundance), group = row.ID, color = as.character(row.ID))) +
   geom_point() +
   geom_line() +
   theme_classic() +
